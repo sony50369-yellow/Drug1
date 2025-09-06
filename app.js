@@ -8,7 +8,7 @@ $('#inst-im').textContent=d.instructions?.IM||'—';$('#inst-ivd').textContent=d
 const sel=$('#diluent-select');sel.innerHTML=(d.diluents||[]).map(x=>`<option>${x}</option>`).join('');$('#conc-result').textContent='';$('#drug-card').classList.remove('hidden');$('#drug-card').dataset.current=JSON.stringify(d);}
 function calcConc(e){e.preventDefault();const dose=parseFloat($('#dose-mg').value||'0');const vol=parseFloat($('#volume-ml').value||'0');if(vol<=0){$('#conc-result').textContent='กรอกปริมาตรให้ถูกต้อง';return;}const conc=dose/vol;const d=JSON.parse($('#drug-card').dataset.current||'{}');let msg=`ความเข้มข้น = ${conc.toFixed(3)} mg/mL`;const min=d?.concentration_mg_per_ml?.min,max=d?.concentration_mg_per_ml?.max;if(min!=null&&max!=null){if(conc<min)msg+=` • ต่ำกว่าช่วงแนะนำ (${min}-${max})`;else if(conc>max)msg+=` • สูงกว่าช่วงแนะนำ (${min}-${max})`;else msg+=` • อยู่ในช่วงแนะนำ (${min}-${max})`;}
 $('#conc-result').textContent=msg;}
-async function load(){try{const resp=await fetch('drugs.json');DRUGS=await resp.json();}catch(e){console.error(e);DRUGS=[];}
+async function load(){try{const resp=await fetch('./drugs.json');DRUGS=await resp.json();}catch(e){console.error(e);DRUGS=[];}
 $('#search').addEventListener('input',function(){const q=this.value.trim().toLowerCase();if(!q){renderSuggestions([]);return;}renderSuggestions(DRUGS.filter(d=>d.name.toLowerCase().includes(q)));});
 $('#suggestions').addEventListener('click',ev=>{if(ev.target.tagName==='LI'){const name=ev.target.getAttribute('data-name');const d=DRUGS.find(x=>x.name===name);if(d){showDrug(d);$('#suggestions').style.display='none';}}});
 $('#conc-form').addEventListener('submit',calcConc);if(DRUGS.length){showDrug(DRUGS[0]);}}
