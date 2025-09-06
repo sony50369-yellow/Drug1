@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded',load);
         [...sug.querySelectorAll('li')].forEach(li=>{
           const t = li.getAttribute('data-name') || li.textContent;
           if (!t) return;
-          li.innerHTML = highlight(t, q));
+          li.innerHTML = highlight(t, q);
         });
       });
     }
