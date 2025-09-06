@@ -1,0 +1,27 @@
+:root{--bg:#fbfcfe;--card:#fff;--ink:#25262b;--muted:#6c6f75;--accent:#7c83fd;--outline:#d7defa;--chip:#f3f5ff;--badge:#eef7ff;--ok:#d9f5d6;--no:#ffe0ea;--shadow:0 10px 30px rgba(30,30,60,.08)}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Prompt,system-ui,-apple-system,Segoe UI,Roboto,Arial}
+header{padding:24px 16px 12px;display:grid;gap:12px;justify-items:center;background:linear-gradient(180deg,#fff,#f3f5ff)}h1{margin:0;font-weight:600}
+.search-box{position:relative;max-width:720px;width:100%}input[type=search]{width:100%;padding:14px 16px;border-radius:14px;border:1px solid var(--outline);background:#fff;box-shadow:var(--shadow)}
+.suggestions{list-style:none;margin:8px 0 0;padding:0;position:absolute;width:100%;background:#fff;border:1px solid var(--outline);border-radius:12px;overflow:hidden;box-shadow:var(--shadow);display:none;max-height:240px;overflow:auto;z-index:10}
+.suggestions li{padding:10px 14px;cursor:pointer}.suggestions li:hover{background:#f4f6ff}
+main{padding:16px;display:flex;justify-content:center}.card{max-width:980px;width:100%;background:var(--card);border-radius:16px;padding:20px;box-shadow:var(--shadow)}.card.hidden{display:none}
+.muted{color:var(--muted)}.grid{display:grid;grid-template-columns:1fr;gap:12px;margin-top:8px}@media(min-width:720px){.grid{grid-template-columns:1fr 1fr}}
+.chips{display:flex;flex-wrap:wrap;gap:8px}.chip{padding:6px 10px;border-radius:999px;background:var(--chip);border:1px solid var(--outline)}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin:6px 0}.badge{display:inline-block;padding:6px 10px;border-radius:999px;background:var(--badge);border:1px solid var(--outline);font-weight:500}
+.badge.ok{background:var(--ok)}.badge.no{background:var(--no)}.badge.na{background:#eee;color:#999}.badge.outline{background:#fff;border-style:dashed}
+.details{margin-top:12px}.instructions{display:grid;grid-template-columns:1fr;gap:8px}@media(min-width:720px){.instructions{grid-template-columns:repeat(2,1fr)}}
+.instructions pre{white-space:pre-wrap;margin:6px 0 0;background:#fafbff;border:1px dashed var(--outline);padding:10px;border-radius:12px}
+.widget{margin-top:18px;padding:14px;border:1px solid var(--outline);border-radius:12px;background:#fafbff}.widget .row{display:grid;grid-template-columns:160px 1fr;gap:10px;align-items:center;margin:8px 0}
+button{appearance:none;border:0;background:var(--accent);color:#fff;border-radius:10px;padding:10px 14px;font-weight:600;cursor:pointer}
+footer{padding:18px;text-align:center;color:var(--muted)}
+
+/* Added: show small code under drug name */
+.drug-code{font-size:0.9rem; color:var(--muted); margin-top:-6px; margin-bottom:6px}
+/* Highlight for typeahead */
+#suggestions mark{background:#fff3cd; padding:0 2px; border-radius:3px}
+/* Compact concentration widget */
+.calc-mini{font-size:0.9rem}
+.calc-mini input,.calc-mini select{height:32px; padding:2px 6px; font-size:0.9rem}
+.calc-mini .row{display:flex; gap:8px; flex-wrap:wrap; align-items:center}
+.calc-mini .row > *{flex:1 1 110px}
+.calc-mini .result{font-weight:600}

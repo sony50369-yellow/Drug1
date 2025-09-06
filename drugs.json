@@ -1,0 +1,3343 @@
+[
+  {
+    "code": "FLUII1",
+    "name": "Acetylcysteine (300 mg/3 ml)",
+    "indications": "Acetaminophen overdose3,6",
+    "diluents": [
+      "2",
+      "4",
+      "D5W",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion6\n- 150 mg/kg : 200 ml drip: 1 hr ตามด้วย\n- 50 mg/kg : 500 ml drip: 4 hr ตามด้วย\n- 100 mg/kg : 1000 ml drip: 16 hr\nน้ำหนัก 20-40 kg/จำกัดน้ำ:\n- 150 mg/kg : 100 ml drip: 1 hr ตามด้วย\n-50 mg/kg : 250 ml drip: 4 hr ตามด้วย\n- 100 mg/kg : 500 ml drip: 16 hr\n1. หลัง dilute ยามีความคงตัว 24 hr ที่อุณหภูมิห้อง1\n2. อาจพบผื่นแดงและอาการหน้าแดง (flushing) หลังฉีดยาทางหลอดเลือดดำ 30-60 min1\n3. การ drip เร็วกว่า 1 hr ทำให้เกิด anaphylactoid reaction\n2",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ACYCI1",
+    "name": "Acyclovir",
+    "indications": "250 mg - Herpes simplex virus - Herpes zoster3,7",
+    "diluents": [
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion7\nrecon: 1 vial : SWFI 5 ml\ndilute: 1-2 vial : 100 ml\nจำกัดน้ำ: 1 vial : 50 ml\ndrip: ≥ 1 hr\n1. ห้าม rapid infusion3\n2. ยาที่ recon ด้วย SWFI จะคงตัวที่ 12 hr7\n3",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ADENI1",
+    "name": "Adenosine (Adenocor®)",
+    "indications": "(6 mg/2 ml) รักษา paroxysmal supra-ventricular tachycardia (PSVT)3 หมายเหตุ ไม่ได้ผลใน atrial flutter , atrial fibrillation หรือ Ventricular tachycardia3",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✕",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV3\npush: 1-2 sec ทาง peripheral IV site flush: NSS 20 ml หลังให้ยาทันที เพื่อป้องกันการเกิด local vein irritation\nmax dose: ไม่เกิน 12 mg\n1. ห้ามเก็บยาในตู้เย็น8\n4",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ADREI1",
+    "name": "Adrenaline 1 mg/ml (Epinephrine)",
+    "indications": "1:1,000 = 1 mg/ 1 ml 1:10,000 = 0.1 mg/ 1 ml Solution for injection 1. Cardiac arrest3 2. Hypersensitivity reaction (Anaphylactic shock)3",
+    "diluents": [
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "—",
+      "IV_direct": "—",
+      "IV_infusion": "—",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "IM1,3\n0.2-0.5 ml ทุก 5-15 min ควรฉีดที่ anterolateral ของ middle third ของต้นขา หลีกเลี่ยงการฉีดที่ตำแหน่งสะโพก",
+      "IV_direct": "Direct IV3\ndilute: 1 amp : 10 ml\npush: ทุก 3-5 min\n2. Hypersensitivity reaction (Anaphylactic shock)",
+      "IV_infusion": "IV infusion1,3\ndilute: 1 amp : 1000 ml\ndrip: ควรเป็น central line ใช้ Infusion Pump\nrate: 1-2 ml/min\nจำกัดน้ำ: ไม่มีข้อมูล\n1. ถ้าเกิด Extravasation ใช้ Phentolamine เป็น Antidote (5-10 mg ละลายใน NSS 10-20 ml) ฉีดในบริเวณ Extravasation3\n2. การบริหารยา ควรให้ยาในเส้นเลือดขนาดใหญ่ (central line) เพื่อป้องกันการรั่วไหลของยาออกนอกเส้นเลือด3\n3.  เก็บให้พ้นแสง9\n4. หลัง dilute ยาจะมีความคงตัวที่ 4 hr ที่อุณหภูมิห้อง หรือ 24 hr ในตู้เย็น1\n5",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ALBUI1",
+    "name": "Albumin 20% 50 ml",
+    "indications": "1.ใช้ในการป้องกันหรือรักษาอาการปริมาณของเหลวในเลือดต่ำ หรือระบบหัวใจและหลอดเลือดล้มเหลว 2.ใช้รักษาอาการช็อคจากการเสียเลือด, โรคติดเชื้อหรือตับอ่อนอักแสบเฉียบพลัน 3.แผลไฟไหม้น้ำร้อนลวก1",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "—",
+      "IV_direct": "—",
+      "IV_infusion": "—",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion1,3\nผู้ป่วยปกติและจำกัดน้ำ:\nยา 2 vial (100 ml) ไม่ต้องเจือจาง\ndrip: ผ่าน set drip ที่มีตัวกรอง (filter) เท่านั้น\nrate: ไม่เกิน 1 ml/min ให้ซ้ำได้อีกใน 15-30 min\n1. ห้ามฉีดเข้าเส้นเลือดดำอย่างเร็วๆเพราะทำให้เกิดน้ำท่วมปอดได้11\n2. ห้ามใช้ยาที่เปิดนานกว่า 4 hr.1\n3. ห้ามฉีดในคนที่มีภาวะโลหิตจางอย่างรุนแรงหรือหัวใจล้มเหลวโดยที่ปริมาณของๆของเหลวในระบบไหลเวียนปกติหรือเพิ่มขึ้น11\n7",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PROSI2",
+    "name": "Alprostadil",
+    "indications": "500 mcg (Prostin VR®) (PEG1) 0.5 mg/ml 1. การรักษาแบบประคับประคองเพื่อรักษาการทำงานของ ductus arteriosus ชั่วคราวในขณะที่รอการผ่าตัดเพื่อแก้ไขH 2. ประคับประคองทารกแรกเกิดที่มีความพิการของหัวใจแต่กำเนิดที่ต้องการเลือดหล่อเลี้ยงผ่าน ductus arteriosus12",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion12\ndilute: 1 ขวด (1 ml) : 50 ml\ndose infant: 0.05-0.1 mcg/kg/min\ndrip: แนะนำ ใน large vein\nrate: 10-20 mcg/ml\nจำกัดน้ำ: ไม่มีข้อมูล\n1. เก็บที่ 2-8 องศาเซลเซียส12\n2. ยาที่เจือจางแล้วเก็บไม่เกิน 24 hr12\n8",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "AMIKI2",
+    "name": "Amikacin Sulfate (250 mg/2 ml, 500 mg/2 ml)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM3\n250 mg/2 ml 2 amp หรือ 500 mg/2 ml 1 amp",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion1\ndilute: 500 mg 1 amp : 100-200 ml\nจำกัดน้ำ: 500 mg 1 amp : 100 ml\ndrip: > 30-60 min ทุก 12 hr\n1. ไม่ควรผสมหรือฉีดพร้อมกับยาอื่น1\n2. เก็บยาที่เจือจางแล้วในตู้เย็นได้ 60 วัน, ที่อุณหภูมิห้องได้ 24 hr1\n9",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "AMINI2",
+    "name": "Aminophylline (250 mg/10 ml)",
+    "indications": "Asthma, Chronic obstructive pulmonary disease (COPD)1,3",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV1,4\npush: rate ไม่เกิน 25 mg/min",
+      "IV_infusion": "IV infusion3\ndilute: 1 amp : 250 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip : > 30 min\n-\n10",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CORDI1",
+    "name": "Amiodarone (Cordarone®) (150 mg/3 ml)",
+    "indications": "- Atrial fibrillation",
+    "diluents": [
+      "D5W (ไม่ละลายใน NSS)2"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV13\nกรณี CPR\ndilute: 1-2 amp : 20 ml\npush: อย่างรวดเร็ว",
+      "IV_infusion": "IV infusion1\nmax conc ที่ peripheral line: 2 mg/ml drip ≥ 1 hr\nmax conc ที่ central line: > 2 mg/ml\nrapid loading infuse: 150 mg : 100 ml infuse ≥ 10 min\nslow loading infuse: 900 mg : 500 ml infuse ≥ 6 hr\nจำกัดน้ำ: ไม่มีข้อมูล\n1. ควรให้ยาทางหลอดเลือดดำส่วนกลาง เพื่อหลีกเลี่ยงปฏิกิริยาบริเวณที่ฉีดยา13\n2. ควรหลีกเลี่ยงการใช้อุปกรณ์ทางการแพทย์ที่มี plasticizer เช่น DEHP13\n3. ถ้าต้องการ infusion rate > 2 hr ควรบริหารในภาชนะที่ไม่ได้ทำจาก PVC เช่น polyolefin, แก้ว3\n4. ยาที่เจือจางแล้วคงตัวในภาชนะ PVC 2 hr, ภาชนะ polyolefin หรือ แก้ว 24 hr3\n11",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "FUNGIZ1",
+    "name": "Amphotericin B 50 mg (Fungizone)",
+    "indications": "ใช้ในการรักษาผู้ป่วยที่ติดเชื้อราอย่างรุนแรง3 ขนาดยาสูงสุด =1.5mg/kg/day3",
+    "diluents": [
+      "D10W (ไม่ละลายใน NSS)1",
+      "D5W"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion1,3\nrecon: 1 vial : SWFI 10 ml\ndilute: 1 vial : 500 ml\nmax conc: peripheral 0.1 mg/ml, central 0.25 mg/ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: > 4-6 hr\nแนะนำ: hydration ด้วย NSS 500-1000 ml ก่อนบริหารยา 1-2 hr\n1. ห้ามผสมยากับ NSS หรือสารละลายที่มีสารกันเสีย เช่น Benzyl Alcohol เพราะอาจตกตะกอนได้14\n2. ไม่ควรให้ยาอย่างรวดเร็ว เนื่องจากจะเกิด hypotension, hypokalemia, arrhythmias และ shock ได้1\n12",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "LIPOSI1",
+    "name": "Liposomal Amphotericin (50 mg)",
+    "indications": "ใช้ในการรักษาผู้ป่วยที่ติดเชื้อราอย่างรุนแรง3 ขนาดยา : 3-6 mg/kg/day3",
+    "diluents": [
+      "D10W1",
+      "D5W"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion1,5\nrecon: 1 vial : SWFI 12 ml เขย่าแรงๆ\ndilute: 1 vial ต่อ 25-50 ml ใช้ตัวกรอง (filter) ฉีดยาที่ recon แล้วเข้าไปผสมกับสารน้ำ\nfinal conc: 1-2 mg/ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: > 2 hr\n1. ห้ามผสมยากับ NSS1\n2. เมื่อเจือจางแล้ว ควรใช้ภายใน 6 ชั่วโมง1\n3. ควรใช้สายแยกหรือ flush สายด้วย D5W ก่อน infusion1\n13",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": 1.0,
+      "max": 2.0
+    }
+  },
+  {
+    "code": "AMPII3",
+    "name": "Ampicillin (250 mg, 500 mg, 1 g)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D5W",
+      "NSS",
+      "SWFI2"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM1\nrecon: 250 mg, 500 mg, 1 g : SWFI 1, 1.8, 3.5 ml ตามลำดับ",
+      "IV_direct": "Direct IV1\nrecon: 250, 500 mg : SWFI 5 ml  push: > 3-5 min\nrecon: 1 g : SWFI 7.4\npush: > 10-15 min",
+      "IV_infusion": "IV infusion1,4\nrecon: 250, 500 mg : SWFI 5 ml\ndilute: 250 mg, 500 mg, 1 g : 100 ml\nconc: ไม่เกิน 30 mg/ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: > 30-60 min\n1. การให้ยาในอัตราเร็วเกิดไป อาจทำให้เกิดการชักได้3\n2. ควรใช้ยาภายใน 1 hr หลังจากผสมยา1\n14",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "NSS1",
+    "name": "✓",
+    "indications": "✓ ✓ X IM  94",
+    "diluents": [
+      "recon: 1vial: SWFI 3.3 mL"
+    ],
+    "routes": {
+      "IM": "—",
+      "IV_direct": "—",
+      "IV_infusion": "—",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 94\nrecon: 1 vial: SWFI  20 ml (ความเข้มข้น 50 mg/ml)\npush: 5-10 นาที 94",
+      "IV_infusion": "IV infusion 94\nrecon: 1vial: 20 ml\ndilute: 1-2 vial : 100 ml\n(Conc.10-20 mg/ml)\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 15-30 min 94\n1.การให้ยาได้ทันภายใน 24 hr แรกหลังได้รับสาร\nเคมีกำจัดแมลงจะให้ผล  ดีมาก\n2.Direct IV ใช้เฉพาะกรณีผู้ป่วยมี pulmonary\nedema หรือให้วิธี Infusion ไม่ได้\n3.เมื่อเตรียมแล้วควรใช้ทันที 94\n123",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": 10.0,
+      "max": 20.0
+    }
+  },
+  {
+    "code": "NSS1",
+    "name": "(หลีกเลี่ยงการผสมใน dextrose solution และ LRS)",
+    "indications": "X ✓ ✓ X Direct IV16",
+    "diluents": [
+      "recon: 1 vial : SWFI 20 ml"
+    ],
+    "routes": {
+      "IM": "—",
+      "IV_direct": "—",
+      "IV_infusion": "—",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion16\nrecon: 1 vial : SWFI 20 ml\ndilute: 1 vial : 100 ml\nจำกัดน้ำ: 1 vial : 50 ml4\ndrip: 30-40 min\n1. ควรฉีด Direct IV ภายใน 20 min หลัง recon16\n2. ห้ามฉีดร่วมกับผลิตภัณฑ์ที่ทำจากเลือดและของเหลวจำพวกโปรตีน16\n3. ห้ามผสมยานี้กับ aminoglycoside และยาฆ่าเชื้ออื่นลงในหลอดฉีดยา ภาชนะบรรจุสารละลายสำหรับฉีด หรือชุดให้ยาสำหรับฉีดชนิดเดียวกัน16\n16",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ASPAI1",
+    "name": "Asparaginase (10,000 IU/vial)",
+    "indications": "Acute lymphoid leukemia3",
+    "diluents": [
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM1\nrecon: 1 vial : NSS 1-2 ml\nไม่ควรฉีด > 2 ml",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion 1\nrecon: 1 vial : NSS 1-2 ml\ndilute: 1 vial : 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: > 1-2 hr\n1. ควรใช้ยาภายใน 4 hr หลังผสม1\n2. ไม่ควรเก็บยาที่ผสมแล้วในตู้เย็น1\n18",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "TRACI2",
+    "name": "Atracurium besylate (Tracrium) 50 mg/5 ml",
+    "indications": "Neuromuscular blockade for endotracheal intubation, surgery หรือ mechanical ventilation3",
+    "diluents": [
+      "D5S1",
+      "D5W",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "—",
+      "IV_direct": "—",
+      "IV_infusion": "—",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV3\nไม่ต้องเจือจาง",
+      "IV_infusion": "IV infusion3,17\ndilute: 25 mg : 50-125 ml\nจำกัดน้ำ: ไม่มีข้อมูล\n1. Initial IV bolus อาจไม่ต้องเจือจาง3\n2.หลังเจือจางแล้วคงตัวที่ 24 hr. ที่อุณหภูมิห้องหรือในตู้เย็น3\n19",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ATROI1",
+    "name": "Atropine sulfate 0.6 mg/ml",
+    "indications": "1. ภาวะเป็นพิษจากสารฆ่าแมลงกลุ่ม carbamates และ organophosphates 2. หัวใจเต้นช้าจากยาประเภทอื่น ได้แก่ digital หรือ beta-blocker3",
+    "diluents": [
+      "5",
+      "NSS1"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV3\nไม่ต้องเจือจาง",
+      "IV_infusion": "IV infusion5\ninfusion: 10-20% ของ total cumulative IV bolus dose\ndrip: 1 hr\n1. การให้ช้าอาจเกิด paradoxical bradycardia3\n20",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ZITHI1",
+    "name": "Azithromycin Dihydrate (Zithromax®) (500 mg/vial)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D5S/2",
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion19\nrecon: 1 vial : SWFI 4.8 ml\ndilute: 1 vial : 250-500 ml\nconc: 1-2 mg/ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: ≥ 60 min\n1. ควรใช้ยาภายใน 24 hr หลัง recon\nไม่ควร infuse น้อยกว่า 1 hr19\n22",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": 1.0,
+      "max": 2.0
+    }
+  },
+  {
+    "code": "CALGI1",
+    "name": "Calcium gluconate 1 g/10 ml หรือ 100 mg/ml (10%) (Ca2+ = 0.45 mEq/ ml)",
+    "indications": "- รักษาอาการชักกระตุกของกล้ามเนื้อเนื่องจากภาวะแคลเซียมในเลือดต่ำจากไตวาย ขาด parathyroid ทารกคลอดก่อนกำหนด และอาการพิษจาก magnesium - ทดแทนการขาดเกลือแร่ในร่างกาย - รักษาภาวะ potassium ในเลือดสูง21",
+    "diluents": [
+      "D10W",
+      "D5S1",
+      "D5W",
+      "LRS",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "direct IV3,5\nไม่ต้องเจือจาง\npush: 2-5 min\nrate: 1.5 ml/min",
+      "IV_infusion": "IV infusion\ndilute: 1 amp : 1000 ml5\nจำกัดน้ำ: 1 amp : 100 ml22\ninfuse: < 200 mg/min\n1. ถ้าให้ IV เร็วเกินไปจะเกิด hypotension, vasodilation, MI, arrhythmia4\n24",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CALCI1",
+    "name": "Calcium EDTA (Calcium disodium Edetate) inj 20% 1 vial ประกอบด้วย Calcium EDTA 2 g/10 ml",
+    "indications": "ต้านพิษจากตะกั่ว23",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM23\nไม่ต้องเจือจาง แยกฉีดหลายๆตำแหน่ง",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion23\ndilute: 1 vial : 500-750 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: > 1 hr\n-\n25",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CEFAZI1",
+    "name": "Cefazolin 1 gm",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D10W",
+      "D5N/21",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM1,3\nrecon: 1 vial : SWFI 2.5 ml",
+      "IV_direct": "Direct IV1,3\nrecon: 1 vial : SWFI 2.5 ml\ndilute: 1 vial : SWFI 5 ml\npush: > 3-5 min",
+      "IV_infusion": "IV infusion1,3\nrecon: 1 vial : SWFI 2.5 ml\ndilute: 1 vial : 50-100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: > 30-60 min\nยาคงตัว 24 hr ที่อุณหภูมิห้องหลัง recon หรือ dilute1\n26",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CEFEPI1",
+    "name": "Cefepime 1 gm inj (Cefamax)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D10W",
+      "D5NS",
+      "D5W",
+      "LRS",
+      "NSS",
+      "SWFI1"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM1\nrecon: 1 vial : 2.4 ml",
+      "IV_direct": "Direct IV1\nrecon: 1 vial : SWFI หรือ NSS 10 ml\npush: > 2-5 min",
+      "IV_infusion": "IV infusion1\nrecon: 1 vial : 10 ml\ndilute: 1 vial : 50-100 ml\nจำกัดน้ำ: 1 vial : 50 ml\ndrip: > 30 min\nยาที่ recon หรือ dilute แล้ว มีความคงตัว 24 hr ที่อุณหภูมิห้อง1\n27",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CEF4",
+    "name": "Ceftazidime 1 gm",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D5N/22",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM1,3,24\nrecon: 1 vial : 3 ml",
+      "IV_direct": "Direct IV1,3,24\nrecon: 1 vial : SWFI 10 ml\npush: > 3-5 min",
+      "IV_infusion": "IV infusion1,3,24\nrecon: 1 vial : SWFI 10 ml\ndilute: 1 vial : 50-100 ml\nจำกัดน้ำ: 1 vial : 50 ml\ndrip: > 15-30 min\nไม่ควรร่วมกับ sodium bicarbonate,  vancomycin, aminoglycoside24\n28",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ZAVICI1",
+    "name": "Ceftazidime/Avibactam (Zavicefta inj.)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion1\nrecon: 1 vial : 10 ml\ndilute: 1 vial : 50-250 ml\nจำกัดน้ำ: 1 vial : 50 ml\ndrip: > 2 hr\nควรใช้ยาภายใน 12 hr หลัง dilute1\n29",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CEFTI1",
+    "name": "Ceftriaxone IV: 1 gm",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D10W",
+      "D5N/21",
+      "D5S",
+      "D5W",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM1\nrecon: 250 mg และ 1 g : 1 และ 4 ml\nไม่ควรใช้สารละลายที่มี calcium เป็นส่วนประกอบ (เช่น LRS)1\n31",
+      "IV_direct": "Direct IV 1\nrecon: 1 vial : SWFI 10 ml\npush: > 2 min",
+      "IV_infusion": "IV Infusion1\nrecon: 1 vial : SWFI 10 ml\ndilute: 1 vial : 25-100 ml\nจำกัดน้ำ: 1 vial : 25 ml\ndrip: > 30 min แนะนำ drip ใน 1 hr เพื่อป้องกันการเกิด infusion reaction\nไม่ควรใช้สารละลายที่มี calcium เป็นส่วนประกอบ (เช่น LRS)1\nห้ามใช้ฉีด Lidocaine ฉีด IV\n30\nCEF3IMI1\nCEF3IMI2\nCeftriaxone IM : 250 mg, 1 g\nทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)\nNSS, D5W, SWFI1\n✓\nX\nX\nX",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "SULPI3",
+    "name": "Cefoperazone 1 gm + sulbactam 500 mg (Sulperazon/Sulcef)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D5S7",
+      "D5W",
+      "NSS",
+      "SWFI"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM25\nrecon: 1 vial :  4 ml",
+      "IV_direct": "Direct IV 25\nrecon: 1 vial :  4 ml\npush: ≥ 3 min",
+      "IV_infusion": "IV Infusion25\nrecon: 1 vial :  4 ml\ndilute: 1 vial : 20 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 15-60 min\n1. ไม่ควรผสมร่วมกับ Aminoglycosides โดยตรง25\n2. ฉีด Vitamin K IM 10 mg/wk เพื่อป้องกันภาวะ thrombocytopenia\n32",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CEFOTI1",
+    "name": "Cefotaxime 1 gm",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D10W1",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM4\nrecon: 1 vial : SWFI 4 ml",
+      "IV_direct": "Direct IV1,4\nrecon: 1 vial : SWFI 4 ml\npush: > 3-5 min",
+      "IV_infusion": "IV infusion4\nrecon: 1 vial : SWFI 4 ml\ndilute: 1 vial : 40-100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 20-60 min\n1.สารละลายที่ได้เป็นสีเหลืองอ่อนถ้าเป็นสีน้ำตาลเข้มแสดงว่าเสื่อมสภาพ4\n2.ไม่ควรผสมกับ Sodium bicarbonate หรือยาปฎิชีวนะอื่นๆ4\n3. ควรใช้ยาภายใน 24 hr หลัง recon4\n33",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CPZI1",
+    "name": "Chlorpromazine (50 mg/2 ml)",
+    "indications": "- Nausea and vomiting - Agitation/ aggression - Hiccups - Tetanus3",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM1,3,4,5\nไม่ต้องเจือจาง",
+      "IV_direct": "Direct IV1,3,4,5\ndilute: 1 vial : 50 ml\npush: < 1 mg/min",
+      "IV_infusion": "IV infusion1,3,4,5\ndilute: 1 vial : 500-1000 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: rate < 1 mg/min\n-\n35",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "NIMBI1",
+    "name": "Cisatracurium besylate 5 ml (2 mg/ml) (Nimbex®)",
+    "indications": "Neuromuscular blockade for endotracheal intubation, surgery or mechanical ventilation3",
+    "diluents": [
+      "D5S1",
+      "D5W",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV1,3,27\n1 vial ไม่ต้องเจือจาง\npush: 5-10 sec",
+      "IV_infusion": "IV infusion1,3,27\ndilute: 1 vial : 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 0.18 mg/kg/hr\nควรใช้ยาภายใน 24 hr หลังเจือจาง1\n36",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CLINDAI1",
+    "name": "Clindamycin Phosphate (600 mg/4 ml/ vial)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D10W",
+      "D5N/21",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM1,3,4\nไม่ต้องเจือจาง\nฉีด 1 ครั้งไม่เกิน 600 mg",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion1,3,4\ndilute:\n300 mg (½  vial) : 50 ml\n600 mg (1amp) : 50 ml\n900 mg : 50-100 ml\nmax conc: 18 mg/ml\nจำกัดน้ำ: 1 vial ผสมสารละลาย 34 ml\ndrip: > 10-60 min\nrate: ≤ 30 mg/min\nไม่แนะนำ: การใช้ขนาด > 1200 mg ต่อการฉีด 1 ครั้ง\ndilute แล้วอยู่ได้ 24 hr ที่อุณหภูมิ 25 องศาเซลเซียส28\n37",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "COLII1",
+    "name": "Colistin Sodium (150 mg/vial)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "IM3,5,30\nrecon: 1 vial : SWFI 2 ml",
+      "IV_direct": "Direct IV3,5,30\nrecon: 1 vial : SWFI 2 ml\npush: 3-5 min",
+      "IV_infusion": "IV infusion3,5,30\nrecon: 1 vial : SWFI 2 ml\ndilute: 1 vial : 100-1000 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: > 30-60 min\nยาที่ recon หรือ dilute แล้วควรใช้ทันทีหลังเตรียมเสร็จ30\n39",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DANTI1",
+    "name": "Dantrolene inj (20 mg)",
+    "indications": "Malignant hyperthermia3",
+    "diluents": [
+      "SWFI ปริมาตร 60 ml1"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✕",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV1,3,31\nrecon: 1 vial : SWFI 60 ml\npush: rapid continuous IV push\nควรใช้ยาภายใน 6 hr หลัง recon1\n40",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DESFI1",
+    "name": "Desferrioxamine 500 mg (Desferal®)",
+    "indications": "1.Acute iron toxicity1 2.Chronic iron overload1",
+    "diluents": [
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "IM\nrecon: 1 vial : SWFI 2 ml1",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nrecon: 1 vial : SWFI 5 ml\ndilute: 1 vial : 150\nml32\nจำกัดน้ำ:ไม่มีข้อมูล\ndrip ≤15 mg/kg/hr1\nควรให้ยาทันทีหลังเตรียมเสร็จ\n41",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DEXAI1",
+    "name": "Dexamethasone (4 mg/ml) Solution for inj.",
+    "indications": "1.อาการแพ้อย่างรุนแรง อาการช็อคเนื่องจากการใช้ยา อาการหอบหืด SJS และกล่องเสียงอักเสบ33 2.ในรายที่ร่างกายมี Adrenocortical Hormone ไม่เพียงพอ33 3.อาการอักเสบรูมาตอยด์ ข้อต่ออักเสบ โรคเก๊าท์ หรือกระดูกอักเสบ โดยฉีดเข้าข้อ33",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nไม่ต้องเจือจาง3",
+      "IV_direct": "Direct IV\nไม่ต้องเจือจาง\npush: slow1",
+      "IV_infusion": "IV infusion\ndilute: 1 vial : 7 mL\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: > 5 - 15 min1\nห้ามฉีดเข้าข้อต่อกระดูกสันหลัง33\n42",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DEXMEI1",
+    "name": "Dexmedetomidine hydrochloride 100 mcg/ml (Precedex®)",
+    "indications": "1.Sedation or Intubated ventilated ICU patient or OR patient",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nผู้ป่วยทั่วไปและผู้ป่วยจำกัดน้ำ:\ndilute: 2 vial : 50 ml        (max conc.= 4 mcg/ml)1\nloading dose > 10 min\n-\n43",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DIAZI1",
+    "name": "Diazepam (10mg/2ml)",
+    "indications": "1.Anxiety 34 2.Status epilepticus34",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nไม่ต้องเจือจาง3",
+      "IV_direct": "Direct IV\nไม่ต้องเจือจาง\npush: slow3",
+      "IV_infusion": "IV Infusion\ndilute: 1 amp : 100 ml\nจำกัดน้ำ:ไม่มีข้อมูล\nmaximum infusion rate 5 mg/min34\n1.อาการไม่พึงประสงค์จากการฉีด คือ ภาวะหลอดเลือดดำอักเสบและภาวะหลอดเลือดดำมีลิ่มเลือด34\n2.หลีกเลี่ยงการบริหารยาที่หลอดเลือดขนาดเล็กบริเวณหลังมือ34\n45",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "LANOI1",
+    "name": "Digoxin (Lanoxin®)      0.5 mg/2 ml",
+    "indications": "1.Cardiac failure3 2.Supraventricular Arrhythmias3",
+    "diluents": [
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nไม่ต้องเจือจาง35 (ฉีดยาไม่เกิน 1 amp ต่อ injection site)",
+      "IV_direct": "Direct IV\nไม่ต้องเจือจาง1\npush: slow over ≥ 5 min35",
+      "IV_infusion": "IV Infusion\ndilute: 1 amp :500 ml\nจำกัดน้ำ: ไม่มีข้อมูล\nrate: 10-20 min35\n1.การให้ยาเข้าทางหลอดเลือดดำอย่างรวดเร็ว จะทำให้เกิดการหดตัวของหลอดเลือด นำไปสู่ภาวะความดันโลหิตสูง และหรือลดการไหลเวียนของเลือดในเส้นเลือดโคโรนารี35\n2.เจือจางแล้วจะมีความคงตัว 48 hr.35\n47",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "HERBI1",
+    "name": "Diltiazem       10 mg/5ml (Herbesser®)",
+    "indications": "1.Angina pectoris3 2.Atrial fibrillation3",
+    "diluents": [
+      "D5N/21",
+      "D5W",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\nไม่ต้องเจือจาง: bolus > 2 min3",
+      "IV_infusion": "IV Infusion\nผู้ป่วยทั่วไปและผู้ป่วยจำกัดน้ำ\ndilute: 5 vial : 50 ml1 (แพทย์ Nephro ใช้ 1-2 vial : 100 ml)1 (maximum rate: 15 mg/hour)3\n1.การเก็บที่อุณหภูมิห้องจะอยู่ได้นาน 1 เดือน3\n2.ถ้านำไปเจือจางควรใช้ให้หมดภายใน 24 ชม.3\n3.ความเข้มข้นของยาขึ้นกับอาการของผู้ป่วยและดุลยพินิจของแพทย์\n48",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DRAMI1",
+    "name": "Dimenhydrinate (50 mg/1 ml)",
+    "indications": "1.ใช้ป้องกันและรักษาอาการคลื่นไส้ อาเจียน ซึ่งเกิดจากการเมารถ เมาเรือ",
+    "diluents": [
+      "D10W1",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nไม่ต้องเจือจาง3",
+      "IV_direct": "Direct IV\ndilute: 1 amp : 10 ml\npush: slow iv >2min1\n-\n49",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DIPOI1",
+    "name": "Dipotassium phosphate (20mEq/20m)",
+    "indications": "ประกอบด้วย K+ 20 mEq/20 และ HPO42- 20 mEq/20 ml37 1.Adjustment of electrolyte concentrations in electrolyte solutions",
+    "diluents": [
+      "D5W36",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "—",
+      "IV_direct": "—",
+      "IV_infusion": "—",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nปริมาตรที่เหมาะสมของน้ำยานี้    (1 mEq/ml) ใช้เติมลงในสารละลาย electrolyte ก่อนหยดเข้าหลอดเลือดดำ37\n(max rate: 20 mEq/hr)\n(Max conc.: 30 mEq/L)37\n1.ต้องเจือจางก่อนใช้37\n2.ไม่ควรผสมร่วมกับยาที่มี calcium หรือ magnesium เช่น acetar เนื่องจากอาจเกิดการตกตะกอนได้37\n3.ห้ามฉีด direct IV\n50",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DOBUI1",
+    "name": "Dobutamine CARDIJECT® (250 mg/20 ml)",
+    "indications": "1.Support in treatment of heart failure 2.Support in treatment of open heart surgery38 2.Support in treatment of cardiogenic shock38",
+    "diluents": [
+      "D10W1",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\ndilute: 100-200 mg : 100 ml\nหรือใช้ 1-2 vial : 250 ml\nMax conc.: 5 mg/ml\nห้าม direct IV\nจำกัดน้ำ:\ndilute: 1 vial : 50 ml38\ndrip:2.5-10 mcg/kg/min38\n1.หลังละลายแล้วคงตัว 24 ชั่วโมง38\n2.ห้ามเจือจางกับสารละลายที่มีฤทธิ์เป็นด่าง38\n51",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DOPA1",
+    "name": "DopaI1",
+    "indications": "Dopamine (INOPIN®)     (250 mg/10 ml) 1.ใช้ในภาวะความดันเลือดต่ำเฉียบพลัน39 2.cardiogenic shock39 3.ใช้ในผู้ป่วย congestive heart failure39",
+    "diluents": [
+      "D10W",
+      "D5N/21",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\ndilute: 100-200 mg : 100 ml\nหรือใช้ 1-2 vial : 250 ml\nห้าม direct IV\ninfuse rate 2-5 mcg/kg/min39\n1.หลังละลายแล้วคงตัว 24 ชั่วโมงที่อุณหภูมิห้อง39\n52",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CLEXI2",
+    "name": "Enoxaparin (LMWH) 40 mg/0.4 ml, 60 mg/0.6 ml",
+    "indications": "1.ต้านการแข็งตัวของเลือดเพื่อรักษาและป้องกัน Deep Vein thrombosis40 2.ป้องกันภาวะแทรกซ้อนในผู้ป่วย non-Q wave MI / unstable angina40 3.ใช้ร่วมกับยาสลายลิ่มเลือดในการรักษา acute STEMI40",
+    "diluents": [
+      "D5W40",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✕",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\n(ให้ IV เฉพาะ acute STEMI เท่านั้น) เพื่อให้มั่นใจว่าขนาดของการให้ยาถูกต้องเนื่องจากขนาดการใช้ยาปริมาณน้อย ควรเจือจางปริมาณยาเพื่อให้ได้ขนาด 3 mg/ml โดยเจือจางจาก ยา 1 หลอด (60 mg/0.6 ml) เจือจางกับสารน้ำ 20 ml40\n1.ห้ามให้ยาโดยฉีดเข้ากล้ามเนื้อ40\n2.กรณีฉีดเข้าใต้ผิวหนัง ห้ามหสมกับยาอื่นๆ40\n3.ห้ามผสมกับยาอื่นหรือสารละลายอื่นเพื่อให้ยาแบบ IV infusion40\n3.อาการเมื่อได้รับยาเกินขนาด Hypertension, เหงื่อออกมาก, ชัก, ภาวะเลือดออก, cerebral hemorrhage40\n53",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ANTIRI1",
+    "name": "ERIG (200 IU/ml) ขวดหนึ่งมี 5 ml",
+    "indications": "1.ป้องกันโรคพิษสุนัขบ้าในผู้ที่ถูกสัตว์ที่คาดว่ามีเชื้อกัดหรือสัมผัสแหล่งที่มาของเชื้อ ไม่ต้องเจือจาง ✓ X X ฉีดรอบบาดแผล IM ไม่ต้องเจือจางฉีดที่สะโพก",
+    "diluents": [
+      "หรือ dilute: 1 amp : 100 NSS จนสามารถฉีดได้ครบทุกแผล42"
+    ],
+    "routes": {
+      "IM": "—",
+      "IV_direct": "—",
+      "IV_infusion": "—",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "INVANZI1",
+    "name": "Ertapenem      (1 g/vial)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "LRS (ห้ามใช้สารละลายที่มีส่วนผสมของ dextrose)1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nRecon:  1 vial : 3.2  ml 1% หรือ 2.0%  lidocaine HCL (without epinephrine)43",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nRecon: 1 vial : 10 ml  SWI43\nDilute: 1 vial  : 50 ml (20 mg/ml)43\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: > 30 min43\n1.IM injection ควรฉีดเข้ากล้ามเนื้อที่มีขนาดใหญ่ เช่น Gluteus maximus3\n2.ยาที่ผสมแล้วเก็บที่อุณหภูมิห้อง แล้วใช้ภายใน 6 hr.43\n56",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PJESMO1",
+    "name": "Esmolol 100 mg/10 ml (Esbloc)",
+    "indications": "1.Supraventricular Tachycardia3 2.Intraoperative and postoperative tachycardia and/or hypertension3",
+    "diluents": [
+      "D5N/2",
+      "D5NS",
+      "D5W",
+      "LRS1",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nไม่ต้องเจือจาง หรือ\ndilute: 1 vial : 100 ml1\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 150 mcg/kg/min >4 hr5\n1.ห้ามใช้ในผู้ป่วยที่มี sinus bradycardia หรือ heart block ที่สูงเกินกว่าระดับที่ 1 cardiogenic shock หรือ over heart failure3\n2.หลังเจือจางแล้วคงตัว 24 hr. ที่อุณหภูมิห้องหรือในตู้เย็น1\n3.หลีกเลี่ยงการบริหารยาที่หลอดเลือดขนาดเล็กบริเวณหลังมือ\n57",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "FENTI1",
+    "name": "Fentanyl (0.1mg/2ml)",
+    "indications": "1.บรรเทาอาการปวดปานกลางถึงรุนแรง 2.ใช้ร่วมกับยาระงับความรู้สึกเพื่อการผ่าตัด 3. ใช้บรรเทาอาการปวดหลังผ่าตัด",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "IM\nไม่ต้องเจือจาง >1-2 min1",
+      "IV_direct": "Direct IV\nไม่ต้องเจือจาง\npush:  slow >1-2 min3",
+      "IV_infusion": "IV infusion\ndilute: 10 amp : 100 ml3\nจำกัดน้ำ: ไม่มีข้อมูล\nloading dose 1 mcg/kg/min 10 min ตามด้วย 0.1 mcg/kg/min4\n1.เมื่อเจือจางแล้วเก็บได้24 hr. ที่อุณหภูมิ 2-8 องศาเซลเซียส\n59",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "FOSMI3",
+    "name": "Fosfomycin Sodium          (4 g/vial)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\ndilute: 1 vial : 100-500 ml\nจำกัดน้ำ:\ndilute: 1 vial : 100 ml\ndrip: 1-2 hr45\n- เก็บที่อุณหภูมิต่ำกว่า 30 °C45\n- เมื่อละลาย Fosmicin สำหรับหยดในตัวทำละลาย จะเกิดการคายความร้อนออกมา ซึ่งไม่มีผลเสียต่อยา หรือฤทธิ์ของยา ดังนั้นจึงไม่ต้องมีความกังวลในเรื่องดังกล่าว45\n- หลังการให้ยาอาจเกิดหลอดเลือดดำอักเสบและอาการปวดในเส้นเลือด45\n- ควรระมัดระวังในการให้ยานี้แก่ผู้ป่วยที่จำเป็นต้องลดปริมาณโซเดียมที่เข้าสู่ร่างกาย เนื่องจากหัวใจล้มเหลว ไตล้มเหลว เป็นต้น45\n60",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "NEUTI1",
+    "name": "Filgrastim 300 mcg/1ml (Neutromax®)",
+    "indications": "1.Chemotherapy induce neutropenia3 2.Bone marrow transplant 3",
+    "diluents": [
+      "D5W (ห้ามผสมยาด้วย NSS",
+      "NSS/2 เพราะอาจก่อให้เกิดการตกตะกอน)2"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\ndilute: 1 vial : 100 ml1\ndrip: >15-30 min หรือ >24 hr.3\nจำกัดน้ำ:\ndilute: 1 vial : 60 ml1\n1.เจือจางแล้วเก็บที่อุณหภูมิห้อง มีความคงตัว 24 hr.\n61",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PROPI1",
+    "name": "Fresofol (propofol® 1%) 10mg/ml",
+    "indications": "1.General anesthesia1 2.Monitored anesthesia care sedation1 3.Sedation for a mechanically ventilated patient1",
+    "diluents": [
+      "D5N/21",
+      "D5W",
+      "LRS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\npush: > 1-5 min4",
+      "IV_infusion": "IV infusion\ndilute: 1 amp : 5 ml\nจำกัดน้ำ: ไม่มีข้อมูล\nflush line q 12 hr.1\n-\n64",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "FUROI2",
+    "name": "Furosemide   (20, 250 mg)",
+    "indications": "1.Congestive heart failure-Edema1 2.Edema1 3.Edema-Renal failure1 4.Hypertension1 5.Pulmonary edema1",
+    "diluents": [
+      "D10W",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\nไม่ต้องเจือจาง\npush: slow >1-2min 1",
+      "IV_infusion": "IV infusion\nrate: <4mg/min1\n1.ห้ามผสมกับยาน้ำอื่นที่มีฤทธิ์เป็นกรดแก่หรือผสมกับยาฉีดอื่นในประบอกฉีดยาเดียวกัน\n2.ยาที่ผสมควรใช้ภายใน24 hr.\n65",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "GANCI1",
+    "name": "Ganciclovir  (500 mg/vial)",
+    "indications": "1.Treatment of CMV retinitis in immunocompromised individuals, including patients with acquired immunodeficiency syndrome; prophylaxis of CMV infection in transplant patients46",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nRecon: 1 vial : SWFI 10 ml46\nDilute:\nผู้ป่วยทั่วไปและผู้ป่วยจำกัดน้ำ\n1 vial : 100 ml1\ndrip: > 1 hr1\n1.หลังละลายด้วย SWFI แล้วจะคงตัว 12 hr. ที่อุณหภูมิห้องและไม่แนะนำให้เก็บในตู้เย็นเพราะอาจทำให้เกิดการตกตะกอนได้\n2.หลังผสมแล้วควรใช้ภายใน 24 hr. และควรเก็บในตู้เย็น\n66",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "GENTAI2",
+    "name": "Gentamicin inj. (10 mg/ml, 40 mg/1ml)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D10W",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nไม่ต้องเจือจาง47",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\ndilute: 3 amp (80mg/2ml) : 100ml48\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: >30min-2hr47\n1.กรณีให้ยานานกว่า 10 วันควรระวังการเกิดพิษต่อไตและการได้ยิน47\n2.หลังผสมแล้วยามีความคงตัว 24 hr ที่อุณหภูมิห้อง47\n67",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "GLYCER1",
+    "name": "Glyceryl trinitrate (NTG) (50 mg/10 ml)",
+    "indications": "1.Treatment of angina pectoris 2.Treatment of acute decompensated heart failure 3.Treatment of perioperative hypertension 3.Treatment of induction of intraoperative hypotension3",
+    "diluents": [
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\ndilute: 1 vial : 250 ml3\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 20 standard drops/min4\n1.ห้ามใช้ร่วมกับยากลุ่ม Phosphodiesterase type 5 (PDE-5) inhibitors เช่น Sildenafil, Tadalafil 3\n2. ห้ามใช้ในผู้ป่วยที่มีภาวะโลหิตจางรุนแรง3\n68",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "GLYPREI2",
+    "name": "Glypressin inj (Terlipressin)",
+    "indications": "Treatment of acute esophageal variceal hemorrhage; treatment of hepatorenal syndrome (type 1) in combination with albumin3",
+    "diluents": [
+      "NSS (ห้ามใช้สารละลาย Dextrose)50"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\npush: slow  1-2 min1",
+      "IV_infusion": "IV infusion\ndilute: 1 amp : 50-100 ml1\nจำกัดน้ำ:\ndilute: 1 amp : 50 ml1\ndrip: in 1 hr1\n1.IV injection กับ IV infusion ประสิทธิภาพไม่แตกต่างกัน แต่ IV infusion มี S/E น้อยกว่า\n70",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "HALOI1",
+    "name": "Haloperidol (Haldo®) (5mg/ml)",
+    "indications": "1.Psychosis3",
+    "diluents": [
+      "D5W (ไม่แนะนำให้ผสมใน NSS)1"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\noff label use\nmaximum rates 5 mg/minute และ 0.125 mg/kg > 1- 2 min3\n-\n71",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "HEMAI2",
+    "name": "Hemax 4,000 unit (Epoetin alfa)",
+    "indications": "1.รักษาภาวะโลหิตจางในผู้ป่วย51 2.รักษาโลหิตจางจาก AZT51 4.รักษาโลหิตจางจากผู้ป่วยมะเร็งที่ได้รับเคมีบำบัด51 - X X X SC SC ไม่ต้องเจือจาง - 73 HEPAM Hepa-merz (5mg/10ml) 1.รักษาภาวะสมองทำงานผิดปกติจากตับวาย (hepatic encephalopathy) อันเป็นผลจากตับวาย hepatic failure) หรือตับแข็ง (liver cirrhosis)52",
+    "diluents": [
+      "D5N/252",
+      "D5W",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nmax dilute: 6 amp : 500 ml52\nmax rate: 5g/hr52\nจำกัดน้ำ: ไม่มีข้อมูล\n1.ห้ามเก็บที่อุณหภูมิต่ำกว่า 30 องศาเซลเซียส52\n74",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "HEPAI1",
+    "name": "Heparin Leo® (Heparin Sod. 5,000 I.U./1 ml) (1 vial = 5 ml)",
+    "indications": "1.ป้องกันและรักษาลิ่มเลือดอุดตัน 2.ป้องกันการแข็งตัวของเลือด 3.รักษาอาการกล้ามเนื้อหัวใจตายบางส่วนจากการขาดเลือด3",
+    "diluents": [
+      "D5N/21",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nไม่ต้องเจือจาง หรือ dilute:  10 : 1ml (10000 i.u. : 100ml)\nจำกัดน้ำ:\ndilute: 1 vial: 50 ml53\ndrip: 4-24 hr\n1.หลังผสมแล้วเก็บไม่เกิน 4 hr ที่อุณหภูมิห้อง หรือ 24 hr ในตู้เย็น1\n75\nHUMUR/100",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "SOLUCI1",
+    "name": "Hydrocortisone (Solu-Cortef)® 100 mg Powder for inj.",
+    "indications": "1.อาการแพ้อย่างเฉียบพลัน 2.อาการหอบอย่างเฉียบพลันและรุนแรง 3.อาการ shock และอาการ anaphylactic shock54",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM และ Direct IV\nเติม bacteriostatic water for injection หรือ bacteriostatic sodium chloride injection54",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nrecon: 1 vial : 2 ml SWFI54\ndilute: 1 vial : 100-1000 ml1\nจำกัดน้ำ:\ndilute: 1 vial : 50 ml1\ndrip: 30 sec - 10 min54\n1.ยาที่ละลายแล้วและไม่ได้ใช้ให้ทิ้งหลังจาก 3 วันที่ผสม54\n77",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ILOPI1",
+    "name": "Iloprost-trometamol (Ilomedin®) 20 mcg/ml",
+    "indications": "1.Pulmonary artery hypertension 2.Advanced form of Buerger’s disease 56",
+    "diluents": [
+      "D5W56",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\ndilute: 1vial: 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 6 hr56\n-\n82",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "IMIPEI1",
+    "name": "Imipenem+Cilastatin (imipenem 500 mg+cilastatin 500 mg/vial)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity) 58",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\nrecon: 1 vial: 10 ml\ndilute:  1vial: 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 20-30 min1,58\n1.ความคงตัวหลังdiluteอุณหภูมิห้องนาน 4 hr และ 2-8 ํC นาน 24 hr\n2. 1  vial ห้ามผสมสารน้ำน้อยกว่า 100 ml เพราะจะทำให้ตกตะกอน 1,58\n83",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "TBKANA1",
+    "name": "Kanamycin Sulfate (1 g/vial)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity) รักษา mycobacterium tuberculosis59",
+    "diluents": [
+      "D10W",
+      "D5S",
+      "D5S1",
+      "D5W",
+      "LRS",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nrecon: 1 vial : 4 ml\nฉีดเข้ากล้ามเนื้อลึกๆที่ gluteus",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\nrecon: 1 vial : 4 ml\ndilute: 1 vial: 200-400 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip:  30-60 min59\n-\n84",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "KEPPI1",
+    "name": "Keppra inj (Levetiracetam 500 mg/ 5 ml)",
+    "indications": "Anticonvulsant3",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\ndilute: 1-3 vial : 100 mL\nจำกัดน้ำ: 1 vial : 35 ml\ndrip: >15 min 2,3,60\n1.ความคงตัวหลังจากdilute: อุณหภูมิห้องนาน 48 hr60\n85",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "KETOLI1",
+    "name": "Ketorolac 30 mg (Ketolac®)",
+    "indications": "Pain3",
+    "diluents": [
+      "D5S",
+      "D5W",
+      "LR",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✕",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nไม่ต้องเจือจาง",
+      "IV_direct": "Direct IV\ndilute: ไม่มีข้อมูล\nจำกัดน้ำ: ไม่มีข้อมูล\npush: ≥ 15 sec4\n1.ความคงตัวหลังจากdilute: อุณหภูมิห้องนาน 48 hr4\n86",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "LABEI1",
+    "name": "Labetalol (25mg/ 5 ml)",
+    "indications": "severe hypertension3",
+    "diluents": [
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\nไม่ต้องเจือจาง\npush: 2 min",
+      "IV_infusion": "IV Infusion\ndilute: 1-3 vial : 100 mL\nmax conc.: 3.75 mg/ml\nจำกัดน้ำ: 1 vial : 27 ml\nแนะนำให้ drip ด้วย infusion pump\ndrip: ปรับตาม BP61\n1.เก็บที่อุณหภูมิไม่เกิน   30 ํC และป้องกันแสง\n2.ความคงตัว: อุณหภูมิห้องและ 2-8 ํC นาน 24 hr\n3.อายุยาหลังเปิดใช้หรือหลังเจาะยาแล้วคือ 28 วัน\n4.เข้ากันไม่ได้กับ Sodium Bicarbonate หรือสารละลายที่มีฤทธิ์เป็นด่าง61\n87",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CRAVI1",
+    "name": "Levofloxacin (750 mg/ 150 ml)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity) 3",
+    "diluents": [
+      "D5S1",
+      "D5W",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\nไม่จำเป็นต้องเจือจาง\ndrip: > 60-90 min2,3,62\n1.ความคงตัวหลังdilute อุณหภูมิห้องนาน 72 hr และ 2-8 ํC นาน 14 day62\n88",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "LINCI1",
+    "name": "Lincomycin Hydrochloride (600 mg/ 2 ml)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity) 1,3",
+    "diluents": [
+      "D10W",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM ไม่ต้องเจือจาง",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion                       dilute: 1 vial: 100 ml      จำกัดน้ำ: ไม่มีข้อมูล\ndrip: >1 hr1,2,63\n-\n89",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "MAGSI2",
+    "name": "Magnesium sulfate (10% 10ml) (50% 2ml)",
+    "indications": "Replacement therapy in magnesium deficiency และ Prevention and control of seizures1,64",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nไม่ต้องเจือจาง",
+      "IV_direct": "Direct IV\ndilute: 10% ไม่ต้องเจือจาง\npush: ≥ 1 min\n50% ไม่ใช้ใน Direct IV",
+      "IV_infusion": "IV infusion\ndilute:50% 1 vial : 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 15-60 min 1,64\n1.ความคงตัวหลัง dilute: อุณหภูมิห้องนาน 24 hr\n2.ห้ามแช่เย็นเพราะจะทำให้ยาตกตะกอน1,64\n90",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "MEROI2",
+    "name": "Meropenem (1 g/vial)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity) 65",
+    "diluents": [
+      "16",
+      "2",
+      "D5W 1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\nrecon: 1 vial : 20 ml\npush: 3-5 min",
+      "IV_infusion": "IV Infusion\nrecon: 1 vial : 20 ml\ndilute: 1 vial : 50-1000 ml\nจำกัดน้ำ: 1 vial : 50 ml\ndrip: 15-30 min5,65\n-\n91",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PJMETH1",
+    "name": "1% Methylene Blue (50 mg/ 5 ml)",
+    "indications": "Methemoglobinemia68",
+    "diluents": [
+      "67",
+      "D5W",
+      "SWFI 1"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\nไม่ต้องเจือจาง\npush: ≥ 5 min",
+      "IV_infusion": "IV Infusion\ndilute: 1 vial : ≥100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: ≥ 5 min68\n-\n92",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "SOLUMI2",
+    "name": "Methylprednisolone (Solu Medrol®) 500, 1,000 mg powder for inj.",
+    "indications": "Anti-inflammatory or immunosuppressant 3",
+    "diluents": [
+      "66",
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nrecon: 500 mg 1 vial : 8 ml\n1,000 mg 1 vial : 16 ml",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\nrecon: 500 mg 1 vial : 8 ml\n1,000 mg 1 vial : 16 ml\ndilute: 1,000 mg 1 vial:100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: ≥ 30 min3,5,70\n1.ความคงตัวหลัง dilute อุณหภูมิห้องนาน 48 hr 5,70\n94",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "METOI1",
+    "name": "Metoclopramide (10 mg/2 ml)",
+    "indications": "nausea and vomiting after surgery/migraine/radiotherapy71",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS",
+      "SWFI"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\ndilute: 1 vial : SWFI 10 ml\nจำกัดน้ำ: 1 vial : SWFI 10 ml\npush: 2 min",
+      "IV_infusion": "IV Infusion\ndilute: 1 vial : 50 ml\nจำกัดน้ำ: 1 vial : 50 ml\ndrip: ≥ 15 min1,5,71\n1.ความคงตัวหลังdilute: อุณหภูมิห้องและ 2-8 ํC นาน 24 hr1,71\n95",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "METRI1",
+    "name": "Metronidazole 500 mg/ 100 ml",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity) 72",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nไม่ต้องเจือจาง\ndrip: 20-60 min72\n1.ห้ามแช่ตู้เย็น72\n96",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DORMI2",
+    "name": "Midazolam (Dormicum) 5 mg, 15 mg",
+    "indications": "Anaesthesia5,73",
+    "diluents": [
+      "D5S1",
+      "D5W",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM ไม่ต้องเจือจาง",
+      "IV_direct": "Direct IV\ndilute:\n5 mg 1 vial : 5 ml\n15 mg 1 vial : 15 ml\nจำกัดน้ำ:\n5 mg 1 vial : 5 ml\n15 mg 1 vial : 15 ml\npush: ≥ 3 min\nContinue IV infusion\ndilute: ผสมตาม conc ต่อไปนี้\n-1 mg/ml;\n5 mg 1 vial : 5 ml\n15 mg 1 vial : 15 ml\n-1 mg/ 2 ml\n5 mg 1 vial : 10 ml\n15 mg 1 vial : 30 ml\n-1 mg/ 5 ml\n5 mg 1 vial : 25 ml\n15 mg 1 vial : 75 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 60 min3,5,7\n1. ควรใช้ทันทีภายใน 24 hr5\n97",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "MORPI1",
+    "name": "Morphine sulphate (10 mg/1 ml)",
+    "indications": "Analgesia and Sedation75",
+    "diluents": [
+      "66",
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS",
+      "NSS/2",
+      "SWFI"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\ndilute: 1 vial : 10 ml\npush: ≥ 5 min\nContinue IV Infusion\ndilute: 1 vial : 100 ml\ndrip: ≥ 60 min75\n1.ความคงตัวหลัง dilute: อุณหภูมิห้องนาน 24 hr75\n99",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PJMICAFI1",
+    "name": "Mycamine 50 mg inj. (MIcafungin)",
+    "indications": "1.invasive candidiasis 2.oesophageal candidiasis 3.Prophylaxis of Candida infection76",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\nrecon: 1 vial : 5 ml\ndilute: 1 vial : 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: ≥ 60 min76\n1.เมื่อเปิดควรใช้ทันที หรือเก็บไว้ที่ 2-8 ํC ได้ ไม่เกิน 24 hr76\n100",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "NARCI1",
+    "name": "Naloxone hydrochloride (400 µg/1 ml)",
+    "indications": "narcotic depression หรือ respiratory depression จากการใช้ยากลุ่ม opioids เกินขนาด77",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\ndilute: 1 vial : 10 ml\nจำกัดน้ำ: 1 vial : 10 ml\npush: 30 sec",
+      "IV_infusion": "IV Infusion\ndilute: 5 vial : 500 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: ขึ้นอยู่กับแพทย์1,3,77\n1.ใช้ทันที ภายใน 24 hr1\n101",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "NETII1",
+    "name": "Netilmicin 150 mg/1.5mg inj.",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity) 1",
+    "diluents": [
+      "D10W",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\ndilute: ไม่ต้องเจือจาง\nจำกัดน้ำ: ไม่ต้องเจือจาง\npush: 3-5 min",
+      "IV_infusion": "IV Infusion\ndilute: 1 vial : 50-100 ml\nจำกัดน้ำ: 1 vial : 50 ml\ndrip: 30 min – 2 hr1\n1.ไม่มีข้อมูลความคงตัวหลังdilute\n103",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "CARDI2",
+    "name": "Nicardipine (Cardepine®) 2 mg/2 ml, 10 mg/10 ml Solution for inj.",
+    "indications": "ความดันโลหิตสูงแบบการรักษาระยะสั้น79",
+    "diluents": [
+      "D5N/2",
+      "D5S1",
+      "D5W",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\nไม่ต้องเจือจาง\npush: 1-2 min\nContinue IV Infusion\ndilute: 10 mg/10 ml                2 vial : 100 ml\n5 vial : 250 ml\nจำกัดน้ำ: 10 mg/10 ml                1 vial : 50 ml\ndrip: ปรับตาม BP4,79\n1.ความคงตัวหลังdilute: อุณหภูมิห้องนาน 24 hr\n2. เก็บไว้ให้พ้นแสง1,4\n104",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "NOREP1",
+    "name": "NorEI1",
+    "indications": "Norepinephrine (Levophed®) (4 mg/ 4 ml) ควบคุมความดันโลหิต กรณีความดันโลหิตต่ำฉับพลัน80",
+    "diluents": [
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\ndilute:\n1-2 vial : 250 ml\nบริหารทาง large peripheral vein\n1-2 vial : 100 ml\nควรบริหารทาง central line\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: ปรับตาม BP80\n1.conc > 32 µg/ml ควรบริหารทาง central line\n105",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "OCTREI1",
+    "name": "Octreotide (100 µg/ 1 ml)",
+    "indications": "1. Acromegaly 2. Carcinoid syndrome 3.Gastroenteropancreatic neuroendocrine tumors, functional, vasoactive intestinal peptide-secreting (VIPomas)1,3",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\ndilute: ไม่ต้องเจือจาง\nจำกัดน้ำ: ไม่ต้องเจือจาง\npush: >3 min",
+      "IV_infusion": "IV Infusion\ndilute: 15 vial : 500 ml\nจำกัดน้ำ: 1 vial ต่อ 50 ml\ndrip: >15-30 min81\n1. ความคงตัวหลังจาก dilute: นาน 24 hr 81\n106",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "OMEPI1",
+    "name": "Omeprazole sodium 42.6 mg เทียบเท่า omeprazole 40 mg Powder for inj.",
+    "indications": "1. แผลในลำไส้ (Duodenal ulcer) 2. โรคแผลในกระเพาะอาหาร (Gastric ulcer) 3. Ulcerative oesophagitis 4. Zollinger-Ellison syndrome82",
+    "diluents": [
+      "2",
+      "D10W",
+      "D5S1",
+      "D5W",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\nrecon: 1 vial : 10 ml\ndilute: ไม่ต้องเจือจาง\nจำกัดน้ำ: ไม่มีข้อมูล\npush: >2.5-5 min",
+      "IV_infusion": "IV Infusion\nrecon:1 vial : 10 ml\ndilute: 1 vial : 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: >20-30 min82\n1.ไม่มีข้อมูลความคงตัวหลังdilute\n107",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ONDAI2",
+    "name": "Ondansetron",
+    "indications": "(8 mg/4 ml) 1.อาการคลื่นไส้ อาเจียน หลังจากได้รับเคมีบำบัด 2.อาการคลื่นไส้ อาเจียนหลังการผ่าตัด 4,83",
+    "diluents": [
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\nไม่ต้องเจือจาง\npush: 3-5 min",
+      "IV_infusion": "IV Infusion\ndilute: 1 vial : 50-100ml\nจำกัดน้ำ: 1 vial : 50 ml\ndrip: ≥ 15 min1,4,83\n1. เก็บให้พ้นจากแสง\n2.ควรใช้ใหเหมดหลังจากเจือจางมา 24 hr 1,4,83\n108",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "SYNTI1",
+    "name": "Oxytocin (Syntocinon®) (10 µg/ml)",
+    "indications": "1.กระตุ้นให้มดลูกบีบตัวขณะคลอด 2.ควบคุมภาวะเลือดออกหลังคลอด85",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "IM ไม่ต้องเจือจาง",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\ndilute: 1 vial : 1000 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: ขึ้นอยู่กับแพทย์85\n1.ไม่มีข้อมูลความคงตัวหลังdilute\n110",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "AREDI1",
+    "name": "Pamidronate disodium (Aredia) 30 mg/10 ml",
+    "indications": "ภาวะระดับแคลเซียมในเลือดสูง 86",
+    "diluents": [
+      "D5W",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion\nrecon: 1 vial : 10 ml\ndilute: 1 vial : 250-1000 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 2-24 hr86\n1.ความคงตัวหลัง dilute:อุณหภูมิ 2-8°C และอุณหภูมิห้องคงตัวนาน   24 hr86\n111",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PANTOI1",
+    "name": "Pantoprazole 40mg (Controloc®)",
+    "indications": "1.โรคกรดไหลย้อนที่มีประวัติหลอดอาหารถูกกัดกร่อนมาก่อน 2.โรค Zollinger-Ellison 87",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV\nrecon: 1 vial : 10 ml\ndilute: ไม่ต้องเจือจาง\nจำกัดน้ำ: ไม่ต้องเจือจาง\npush: ≥ 2 min",
+      "IV_infusion": "IV Infusion\nrecon: 1 vial : 10 ml\ndilute: 1-2 vial : 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 15 min 87\n1. ควรใช้ทันทีหลังผสม 87\n112",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PARAI2",
+    "name": "Paracetamol 300 mg",
+    "indications": "Fever, Pain1 ไม่ต้องเจือจาง ✓ X ✓ X IM ไม่ต้องเจือจาง IV Infusion dilute: 1 vial : 50-100 ml จำกัดน้ำ: 1 vial : 50 ml drip: 15-60 min88",
+    "diluents": [
+      "1.แนะนำผสมใน NSS และบริหารผ่าน infusion pump"
+    ],
+    "routes": {
+      "IM": "—",
+      "IV_direct": "—",
+      "IV_infusion": "—",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DYNAI1",
+    "name": "Parecoxib (Dynastat® 40 mg)",
+    "indications": "รักษาอาการปวดหลังการผ่าตัดระยะสั้น89",
+    "diluents": [
+      "D5N/21",
+      "D5W",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM                                        ไม่ต้องเจือจาง",
+      "IV_direct": "Direct IV\nrecon: 1 vial : 2 ml\nจำกัดน้ำ: ไม่มีข้อมูล\n1. ความคงตัวหลัง recon: อุณหภูมิห้องคงตัวนาน   24 hr\n2. ไม่ต้องแช่ตู้เย็นหลังผสม89\n114",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PGSI1",
+    "name": "Penicillin G (1 ล้านยูนิต)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)3",
+    "diluents": [
+      "D10W",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS",
+      "NSS/2",
+      "SWFI"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM\nrecon: 1 vial : 5 ml",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\nrecon: 1 vial : 5 ml\ndilute: 1 vial : 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 30-60 min 2,3,90\n1.เก็บไว้ให้พ้นแสง\n2.ยาที่เจือจางแล้วควรใช้ทันทีภายใน 24 hr 2\n115\nBenzathine penicillin 1.2 ล้านยูนิต\n1.Erysipelas (โรคติดเชื้อทางผิวหนัง)\n2.Syphilis\n3.ติดเชื้อแบคทีเรียกลุ่มTreponema speciesบริเวณผิวหนังภายนอก4",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PENTAMI1",
+    "name": "Pentamidine 300 mg inj. (Pentacarinat)",
+    "indications": "ใช้รักษาโรคปอดอักเสบจาก Pneumocystis jiroveci (PCP) ในผู้ใหญ่และเด็กอายุตั้งแต่ 4 เดือนขึ้นไป 4",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM 4\nrecon: 1 vial: 3-5 ml",
+      "IV_direct": "",
+      "IV_infusion": "IV Infusion 4\nrecon:1 Vial: SWFI 3-5 mL\ndilute: 1 vial: 50-250 mL 4\nจำกัดน้ำ: 1 Vial : 50 ml 4\n(ความเข้มข้นสูงสุด 6 mg/mL)\ndrip: 60-120 min 4\n1.แนะนำให้ใช้ยาทันที\n2.ความคงตัวหลัง diluteที่อุณหภูมิ 2-8 oC นาน 24 hr 4\n117",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PETHI1",
+    "name": "Pethidine 50 mg",
+    "indications": "1.ใช้บรรเทาอาการปวดระดับปานกลางถึงรุนแรง 2.Obstetric pain 3.Anesthesia Adjunct 4.Pre-medication for procedure",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "IM/SC 4\nไม่ต้องเจือจาง",
+      "IV_direct": "Direct IV 4\ndilute: 1 Vial : SWFI 5 ml\n(ความเข้มข้น 10 mg/ml)\npush: slow push 4-5 min",
+      "IV_infusion": "IV infusion 4\ndilute: 1 Vial: 50 ml\n(ความเข้มข้น 1mg/ml)\nจำกัดน้ำ: 1 Vial: 50 ml\ndrip: 15-30 min 4\n1.ความคงตัวหลัง dilute: ควรใช้ทันทีหรือไม่ควร เกิน 24 hr 4\n2.ปรับขนาดตามการทำงานของไต4\n3.ให้ผู้ป่วยนอนขณะให้ยาและให้นอนพัก 30 minหลังให้ยา 4\n118",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PHENOI1",
+    "name": "Phenobarbitone 200 mg/ml inj.",
+    "indications": "แก้และกันชัก",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✕",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM 3\nไม่ควรเกิน 5ml/จุด เนื่องจากจะ ทำให้ระคายเคืองบริเวณที่ฉีด 3",
+      "IV_direct": "Direct IV 4,91\ndilute: 1 amp : SWFI 10 ml 4\npush: 5 min 4\nผู้ใหญ่ หลีกเลี่ยงการให้เร็วกว่า\n60 mg/min 4\n1.การให้อย่างรวดเร็วอาจกดระบบทางเดินหายใจได้ หลีกเลี่ยงการฉีดเข้าหลอด เลือดแดง\n2.สารละลายหลังการผสมยาหรือการเปิดใช้ครั้งแรกให้เก็บที่อุณหภูมิต่ำกว่า 25oC\n3. เก็บให้พ้นแสง 4,91\n119",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DILAI2",
+    "name": "Phenytoin sodium (Dilantin®)      (250 mg/5 ml)",
+    "indications": "Anticonvulsant 4",
+    "diluents": [
+      "NSS    (ห้ามใช้สารละลายที่มีส่วน ผสมของ dextrose)1"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 4\nไม่ต้องเจือจาง\npush: ไม่เกิน 50 mg/min 4",
+      "IV_infusion": "IV Infusion 4\ndilute: 1 amp: 50-100 ml 4\n(Conc.10 mg/ml)\nจำกัดน้ำ: 1 amp: 50 ml 4\ndrip: 1-4 hr 4\nLoading dose  4,92\n750-1000 mg ใน NSS 100 ml นาน 30 นาที\n(Max rate 50 mg/min)\n1.ถ้าให้ขนาดยามากกว่า 300 mg หรือ\n50 mg/min ให้ติดตาม BP, EKG, Vital sign,\nPlasma phenytoin, CBC, LFT 4\n2.ควร flush ด้วย NSSก่อนและหลังให้ยา 4,92\n3.เมื่อเจือจางแล้วควรใช้ทันที (ภายใน 4 hr)      4.ไม่ควรแช่ตู้เย็นเพราะ จะทำให้ยาตกตะกอน 4\n120",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "TAZOI2",
+    "name": "Piperacillin 4g + tazobactam 500 mg",
+    "indications": "(Tazocin 4.5g®) ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D5W",
+      "NSS",
+      "SWFI1"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 4\nrecon: 1amp : 20 ml\npush: 3-5 นาที 3,4",
+      "IV_infusion": "IV Infusion 4\nrecon: 1amp: 20ml\ndilute: 1 amp : 50,100 หรือ 150 ml\nจำกัดน้ำ: 1 amp : 50 ml\ndrip: 30 นาที 3,4\n1.หลังจากผสมแล้วควรใช้ยาในทันที 4\n2.ความคงตัวหลัง recon ที่อุณหภูมิ 2-8 °C นาน 48 hr\n3.ความคงตัวหลัง dilute ที่อุณหภูมิห้องคงตัวนาน24 hr 4\n121",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "KCLI1",
+    "name": "Potassium chloride (KCl inj) (1 amp = 20 mEq/10 ml)",
+    "indications": "ป้องกันหรือรักษาภาวะโปแตสเซียม   ในเลือดต่ำ (hypokalemia)",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS/2",
+      "แนะนำ NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 93\ndilute: 1 amp: NSS 1000 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: Slow IV infusion เท่านั้น\n1.K > 2.5mEq/L 93\nmax conc: 40 mEq/L\nmax infusion rate: 10 mEq/hr\nmax 24 hr dose: 200 mEq/day\n2. K < 2.5mEq/L 93\nmax conc: 80 mEq/L\nmax infusion rate:  40 mEq/hr\nmax 24 hr dose: 400 mEq/day\nMaximum concentration (Peripheral line) = 80 mEg/L93\nMaximum concentration (Central line)  = 200 mEg/L 93\n1.ห้ามให้ Direct IV\n2.หลัง dilute ควรพลิกถุงกลับไปกลับมาอย่างน้อย 10 ครั้ง เพื่อป้องกันยามีความเข้มข้นเฉพาะจุด\n3. กรณีที่มีการให้ยาเร็วมากกว่า 10 mEq/hr   ควรติดตาม EKG ใกล้ชิด\n4.เมื่อ dilute แล้วคงตัว 24 hr เก็บที่อุณหภูมิห้อง ห้ามแช่แข็ง\n5.KCl solution ที่เข้มข้นเกิน 60-80 mEq/L หรือให้ในอัตราเร็วเกิน\n10 mEq/hr ควรจะ\ndrip central line\nเพื่อหลีกเลี่ยงการเกิด phlebitis 3,93\n122",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PREVAI1",
+    "name": "Prevacid 30 mg inj. (Lansoprazole)",
+    "indications": "1.Gastric ulcer       2.Duodenal ulcer 3.Acute stress ulcer ที่มีเลือดออกร่วมด้วย",
+    "diluents": [
+      "D10W",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 95\nrecon:1 amp: 5 ml         push: 2 min",
+      "IV_infusion": "IV Infusion 95\nrecon: 1 amp: 5 ml\ndilute: 1 amp: 50-100 ml\nจำกัดน้ำ:1 amp: 50 ml\ndrip: 30 นาที 95\n1.ความคงตัว\nเมื่อเจือจางด้วย NSS เก็บได้นาน 24 hr ที่ 25 °C แต่ถ้าเจือจางด้วย D5W จะเก็บได้นาน 12 hr       ที่ 25 °C\n2.ควรใช้ยาทันทีหลังละลาย 95\n124",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PRIMAI1",
+    "name": "Primacor 10 mg inj. (Milrinone)",
+    "indications": "ใช้เพิ่มการบีบตัวของหัวใจในผู้ป่วยหลังผ่าตัดหัวใจ",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV  96\npush: 10 min",
+      "IV_infusion": "IV infusion  96\ndilute: 1 amp: 50 mL\n(ความเข้มข้น 0.2 mg/mL)\nจำกัดน้ำ: ไม่มีข้อมูล              drip: 0.375 – 1 μg/kg/min\n1.ใช้ทันทีหลังผสม\n2.ความคงตัวหลัง diluteที่ 5 oC นาน 48 hrs 96\n125",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PROTI1",
+    "name": "Protamine sulfate 50 mg/5 ml",
+    "indications": "ใช้ในกรณีที่มี เลือดออกมากผิดปกติจาก การได้รับ Heparinและ Low-molecular weight heparin (LMWH) เกินขนาด",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 1,3,97\nไม่เจือจาง\npush: over 10 min",
+      "IV_infusion": "IV infusion 1,3,97\ndilute:1 amp :  25-50 ml\nจำกัดน้ำ: ไม่มีข้อมูล\nMax dose 50 mg\n(Max conc.10 mg/ml)\ndrip: 10-30 min 97\n(Max rate 5 mg/min)\n1.หลัง dilute ควรใช้ทันที ห้ามเก็บของผสมไว้ใช้อีก97\n2.ขนาดยาขึ้นกับระยะ\nเวลาหลังเกิดเลือดออก จากการได้รับ Heparin 97\n126",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "RANII1",
+    "name": "Ranitidine (50 mg/2 ml) Solution for inj",
+    "indications": "1.Therapy of Gastric ulcer 2.Gastroesophageal reflux",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM 98\nไม่ต้องเจือจาง",
+      "IV_direct": "Direct IV 98\ndilute: 1 amp: 20 ml\npush: 5 min 98\n(Max rate 4 ml/min)\nให้ซ้ำได้ทุก 6-8 hr",
+      "IV_infusion": "IV infusion 98\ndilute: 1amp : 100 ml 98\nจำกัดน้ำ: 1amp: 100 ml 98\ndrip: 15-20 min 98\nให้ซ้ำได้ทุก 6-8 ชม\n1.หลัง dilute แล้วคงตัว 24 hr ที่อุณหภูมิห้อง 98\n127",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ESMEI1",
+    "name": "Rocuronium inj (Esmeron)",
+    "indications": "10 mg/ml ใช้เพื่อให้กล้ามเนื้อหย่อนตัวสำหรับใส่  ท่อช่วยหายใจหรือเครื่องช่วยหายใจ",
+    "diluents": [
+      "D5NS",
+      "D5W",
+      "LRS",
+      "NSS",
+      "SWFI1"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 99\nไม่ต้องเจือจาง\npush: 1-2 min 99",
+      "IV_infusion": "IV infusion 99\ndilute: 3 vial: 60 ml\n(ความเข้มข้น 0.5 mg/ml)\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 0.5mg/kg/hr99\n-\n128",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "RECOI1",
+    "name": "Recormon   5,000 unit       (Epoetin beta)",
+    "indications": "รักษาภาวะโลหิตจางในผู้ป่วย CKD ไม่ต้อง เจือจาง X ✓ X SC SC 100 ไม่ต้องเจือจาง Direct IV 100 ไม่ต้องเจือจาง (prefilled syringe) 1.เมื่อเปิดใช้แล้วให้ทิ้งยาเลยไม่ว่าจะเหลือหรือไม่  ก็ตาม 129 SODBI1 SODBI2 7.5% Sod. Bicarbonate   (10 ml, 50 ml) 1.Electrolyte supplement 2.Alkalinizing agent 3.Antacid",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5W",
+      "LRS1",
+      "NSS",
+      "NSS/2",
+      "SWFI"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 3\ndilute: อัตราส่วน 1:1ใน SWFI\npush: 5 ml/min 3",
+      "IV_infusion": "IV infusion 3\ndilute:1 amp : 50-100 ml\nจำกัดน้ำ:1amp :  50 ml\ndrip: 4-6 hr 3\n1.หลัง dilute แล้วมี   ความคงตัว 24 hr ที่อุณหภูมิห้อง 3\n130",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "SODNII1",
+    "name": "Sod. Nitropusside  (50 mg/ml)",
+    "indications": "1.Antihypertensive 2.Vasodilator",
+    "diluents": [
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 102\ndilute: 1 amp: 250-1,000 ml\nจำกัดน้ำ :1 amp: 250 ml\ndrip: 0.3 mcg/kg/min\n(Max rate 10 mcg/kg/min)\n1.ห้ามให้ IV push\n2.หลัง  dilute สามารถเก็บได้ 24hr ในภาชนะพ้นแสง1\n132",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "SODTHI3",
+    "name": "Sod.  Thiosulfate 25%",
+    "indications": "(250 mg/ml) 1.Cyanide toxicity 2.Calciphylaxis",
+    "diluents": [
+      "NSS",
+      "SWFI 103"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 103\nไม่ต้องละลาย\nฉีดยา 1 vial\npush: 10-20 min 103",
+      "IV_infusion": "IV infusion 104\ndilute: เจือจางจนเป็น 100 ml\ndrip: 30-60 min\n(ยาจากรพ.ศิริราช ขวดละ 100 mlสามารถ infuse ได้โดยตรง)\n1.เมื่อเปิดใช้แนะนำให้ใช้ทันที\n2.สำหรับ Cyanide toxicity แนะนำให้ Direct IV\n133",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "STREPI1",
+    "name": "Streptokinase (1.5 mU)",
+    "indications": "Fibrinolytic Agent",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 105\nrecon: 1 vial : 5 ml\ndilute: 1vial : 100-500 ml\nจำกัดน้ำ: 1vial :  100 ml\ndrip: 60 min 105\n1.หลัง recon แล้วควรใช้ทันทีหรือเก็บในตู้เย็นได้นาน 24 hr\n2.ที่อุณหภูมิไม่เกิน 25 OC มีความคงตัวนาน 8 hr 105\n134",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "NALAI1",
+    "name": "Sulprostone (Nalador®) 500 mcg",
+    "indications": "1.ใช้ชักนำให้เกิดการสิ้นสุดของการตั้ง ครรภ์ที่มารดาหรือทารกตาย 2.รักษาแบบเร่งด่วน ในกรณีที่มีการตกเลือดมากหลังการคลอดบุตร",
+    "diluents": [
+      "NSS 105"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion106\ndilute: 1 amp: 250-500 ml\nจำกัดน้ำ: 1 amp: 250 ml\ndrip: 100 mcg/hr 106\n(Max rate 500 mcg/hr)\n(Max dose: 1500 mcg)\n1.หลัง recon แล้วให้เก็บในตู้เย็นและใช้   ภายใน 12 hr 106\n135",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "TARGI1",
+    "name": "Teicoplanin (Targocid®) 200 mg",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM  4\nrecon: 1vial: SWFI 3 ml",
+      "IV_direct": "Direct IV 4\nrecon: 1 vial: SWFI 3\npush: 3-5 min",
+      "IV_infusion": "IV Infusion 4\nrecon: 1 vial: SWFI 3 ml\ndilute: 1 vial : 50-100 ml 107จำกัดน้ำ: 1 vial : 50 ml\ndrip: 30 min\n1.หลัง recon และ dilute มีความคงตัวนาน24 hr ที่ 2- 8°C 4\n136",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "TERBI1",
+    "name": "Terbutaline (0.5mg/ml)       (1 amp=1 ml)",
+    "indications": "1.Broncho constriction 2.Premature labor",
+    "diluents": [
+      "D5W",
+      "NSS",
+      "NSS/21"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 2\nไม่ต้องเจือจาง\npush: slow 5 min",
+      "IV_infusion": "IV infusion  4\ndilute: 5 amp: D5W 500 ml\n(Conc. 0.005 mg/ml)\nจำกัดน้ำ : ไม่มีข้อมูล\ndrip: 12 hr 4\n(Max dose 0.175- 0.3 mg/min)4\n1.หลัง dilute มีความ    คงตัวนาน 48 hr\n2.นิยมใช้ D5W มากกว่า NSS ยกเว้นผู้ป่วยมี     ข้อห้ามใช้ dextrose เท่านั้น\n137\nVITB1I1\nThiamine Hydrochloride injection (100mg/1 ml)\n1.ป้องกันและรักษาโรคเหน็บชา\n2.บำรุงระบบประสาท\n3.Wernicke- encephalopathy\nNSS, D5W, D10W, D5S, NSS/2, LRS, D5N/21\n✓\n✓\n✓\nX",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "THIOPI1",
+    "name": "Thiopental 1gm",
+    "indications": "ยาสลบ",
+    "diluents": [
+      "D5N/2",
+      "D5W",
+      "NSS",
+      "NSS/21",
+      "SWFI"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 4\nrecon:\nconc. 2.5%:\n1 vial : 40 ml\nconc. 5.0%:\n1 vial : 20 ml\npush: 10-15 sec\ndilute: 1 vial: 250-500 ml\nจำกัดน้ำ: 1 vial: 250 ml\n(conc. 0.2-0.4%)\ndrip: 15-30 sec 4\n1.หลัง recon แล้วมีความ   คงตัว 9 hr ที่ 25°C และคงตัว 24 hr ที่ 2- 8°C 4\n139",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PJTHYMOI1",
+    "name": "Thymoglobulin (5mg/ml) inj",
+    "indications": "1.ป้องกันหรือรักษาปฏิกิริยาการไม่ยอมรับ เนื้อเยื่อที่ปลูกถ่าย 2.Aplastic anemia 3.Graft-VersusHost Disease เฉียบพลัน",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion108\nrecon: 1 vial: SWFI 5 ml\n(conc. 5 mg/mL)\ndilute:1vial: 50-500 ml\nจำกัดน้ำ: 1vial: 50 ml\ndrip: minimum of 6 hr for the first dose and over at least    4 hr for subsequent doses 108\n1.หลัง recon และ diluteยาควรใช้ทันที\n2.หากมียาที่ผสมแล้วเหลือให้ทิ้ง 108\n140",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "TYGAI1",
+    "name": "Tigecycline (Tygacil®) 50 mg",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 109\nrecon: 1 vial: 5.3 ml\nดูดยามา 5ml (Conc. 10 mg/ml)\ndilute: 1-2 vial: 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 30-60 นาที 109\n1.ผสมแล้วควรมีสีเหลืองหรือส้ม\n2.หลัง recon เก็บที่อุณหภูมิห้องใน vial ได้  6 hr หรือเก็บที่อุณหภูมิ ห้องใน IV bag ได้ 24 hr 4.ความคงตัวเมื่อเก็บในตู้เย็นได้ 48 hr 109\n141",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "TRAMI1",
+    "name": "Tramadol (100 mg/2 ml)",
+    "indications": "Analgesic Nonopioid",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM 110\nไม่ต้องเจือจาง",
+      "IV_direct": "Direct IV 110\nไม่ต้องเจือจาง\npush: 2-3 min",
+      "IV_infusion": "IV infusion 110\ndilute: 1 amp: 25-200 ml\nจำกัดน้ำ: ไม่มีข้อมูล\n(Con.c 0.5-4 mg/ml)\ndrip: 60 min 110\n-\n142",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "TRANI1",
+    "name": "Tranexamic acid (Transamin®) 250 mg/5 ml",
+    "indications": "รักษาโรคที่เกี่ยวกับเลือดออก",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM 4\nไม่ต้องเจือจาง",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 4\ndilute: 1-2 amp: 100 ml\nจำกัดน้ำ:1 amp: 50 ml 4\ndrip: 5-30 min\n(<10 ml/min)\n1.การให้ทาง IM ระมัดระวังการเกิด tissues หรือ nerves damage\nหลีกเลี่ยงการฉีดที่เดิม 3\n143",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "BACTI1",
+    "name": "Trimethoprim 80 mg + Sulfamethoxazole 400 mg (Bactrim®)",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D5N/2",
+      "D5W",
+      "LRS1",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion  111\ndilute: 1 amp: 100 ml\ndilute: 3 amp: 500 ml 111\nจำกัดน้ำ: 1 amp: 75 ml\ndrip: 60 -90 min 5\n1.แนะนำผสมกับ D5W\n2.ความคงตัวหลัง dilute 6 hr 111\n144",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "DEPAT3",
+    "name": "Sodium valproate (Depakin®)",
+    "indications": "400 mg/4 ml Anticonvulsant",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 1,2\nrecon: 1 amp: 4 ml\npush: 3-5 min",
+      "IV_infusion": "IV infusion\ndilute: 1amp: อย่างน้อย 50 ml จำกัดน้ำ: 1amp: 50 ml\ndrip: 60 min 1,2\n1. หลัง dilute แล้วคงตัวที่ 25 °C นาน 24 hr 1,2\n145",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "VANCI1",
+    "name": "Vancomycin 500 mg",
+    "indications": "ทำลาย/ยับยั้งเชื้อแบคทีเรีย ของการติดเชื้อที่อวัยวะต่างๆ ตามผลความไวของเชื้อต่อยา (culture and sensitivity)",
+    "diluents": [
+      "D10W",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 112\nrecon:1vial :10 ml\ndilute: 1vial:100 ml drip: 1 hr 1\n(Conc: 5 mg/ml)\ndilute: 1 g : 200 ml\ndrip: 2 hr\nจำกัดน้ำ:1 vial: 50 ml1\n(Conc.10 mg/ml) 112\n1. ถ้าให้ 1 vial: 100 ml drip อย่างน้อย 1 hr\n2. ถ้าให้ 2 vial: 200-250 ml drip อย่างน้อย 2 hr\nเพื่อป้องกัน red man syndrome\n3. หลัง recon เก็บได้ นาน 7 วันที่ 25 ๐C และในตู้เย็นเก็บได้ 14 วัน 112\n146",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "VECUI1",
+    "name": "Vecuronium 10 mg",
+    "indications": "1.General anesthesia ในการใส่ Endotracheal tube 2.ยาคลายกล้ามเนื้อระหว่างผ่าตัด",
+    "diluents": [
+      "D5W",
+      "LRS1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "IM 3\nไม่ต้องเจือจาง",
+      "IV_direct": "Direct IV 3\nrecon: 1 vial:10 ml\npush: 1 min",
+      "IV_infusion": "IV infusion 3\ndilute: 1-2 vial : 100 ml\nจำกัดน้ำ: ไม่มีข้อมูล\n(conc. 0.1-0.2 mg/ml)\ndrip: 0.1 mg/kg/hr\n1.หลัง recon เก็บในตู้เย็นได้ 24 hr 3\n147\nVITB1I1\nVit B1 inj (100 mg/ml)\n1.Thiamine deficiency\n2.Beriberi\n3.Wernicke-Korsakoff syndrome3\nNSS, D5W,D10W, D5S, D5N/2, LRS, NSS/21\n✓\nX\n✓\nX",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": 0.1,
+      "max": 0.2
+    }
+  },
+  {
+    "code": "VITBCI1",
+    "name": "Vitamin B Complex",
+    "indications": "1.ป้องกันและ รักษา การขาดวิตามิน B 2.รักษาอาการคลื่นไส้อาเจียนของสตรีที่ตั้ง ครรภ์",
+    "diluents": [
+      "D5W2",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "IM 115\nไม่ต้องเจือจาง",
+      "IV_direct": "Direct IV  115\npush: 10 นาที",
+      "IV_infusion": "IV infusion  115\ndilute: 1 vial:100 ml\nจำกัดน้ำ: 1 vial: 100 ml\ndrip: 30 min 115\n1.Protect form light\n2.ไม่มีข้อมูลความคงตัวหลังเจือจาง\n3.ควรใช้ยาทันทีหลังผสม 115\n150",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "VITCI1",
+    "name": "Vitamin C injection (500 mg/2 ml)",
+    "indications": "1.Ascorbic acid def 2.Wound healing",
+    "diluents": [
+      "D10W",
+      "D5N/21",
+      "D5S",
+      "D5W",
+      "LRS",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "IM /SC  3\nไม่ต้องเจือจาง",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion\ndilute: 1 vial : large volume\n(Conc. 1-25 mg/ml)\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: <33 mg/min3\n1.Protect form light\n2.ความคงตัวหลัง diluteที่อุณหภูมิห้อง 24 hr 3\n151",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": 1.0,
+      "max": 25.0
+    }
+  },
+  {
+    "code": "KONAI4",
+    "name": "Vitamin K1 Phytonadione  2 mg/1 ml และ10 mg/1 ml",
+    "indications": "1.warfarin overdose 2.Hypopro-thrombinemia จาก long-acting anticoagulant rodenticides (LAARs) 2,3,114",
+    "diluents": [
+      "D10W",
+      "D5N/2",
+      "D5S",
+      "D5W",
+      "LRS1",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✓",
+      "IV_direct": "✓",
+      "IV_infusion": "✓",
+      "Other": "—"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "Direct IV 116\ndilute: 1 vial: 10 ml\nPush: ≥ 5 -10 min\n(Max conc. 1mg/ml) 1,3",
+      "IV_infusion": "IV infusion\ndilute: 10 mg: 50 ml\nจำกัดน้ำ:10 mg: 50 ml\ndrip: > 60 min หรือ\nrate ≤1 mg/min2 ,3\n1.ควรใช้สารละลายทันทีหลังเจือจางและเก็บให้ พ้นแสง 116\n2.ไม่แนะนำ IM/SC เพราะไม่มีประสิทธิภาพพอเพียงในการรักษา 116\n152",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "VFENDI1",
+    "name": "Voriconazole 200 mg (Vfend®)",
+    "indications": "1.Triazole antifungal agent 2.Invasive aspergillosis",
+    "diluents": [
+      "D5N/2 D5S1",
+      "D5W",
+      "NSS",
+      "NSS/2"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 117\nrecon:1 vial: SWFI 19 ml (ความเข้มข้น10 mg/ml)\nปริมาตร 20 ml\ndilute: Con.c 0.5-5 mg/ml\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 1-3 hr 117\nไม่เกิน 3mg/kg/hr\n1.ยาที่ละลายแล้วความเข้มข้น 10 mg/ml สามารถเก็บได้ไม่เกิน      24 hr ที่ 2-8 ๐C 117\n153",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ZOMEI2",
+    "name": "Zoledronic acid (Zometa®)",
+    "indications": "4 mg/100 ml 1.รักษาผู้ป่วยมะเร็งที่มี bone metastases ที่เกิด osteolytic 2.ลดการเสื่อมสลายของกระดูกในผู้ป่วยที่ มีมะเร็งที่กระจายไปกระดูก 3.ใช้รักษาผู้ป่วยที่มีภาวะแคลเซียมในเลือดสูงจากเนื้องอก 4",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "ACLAI1",
+    "name": "Zoledronic acid (Aclasta®)",
+    "indications": "5 mg/100 ml (ไม่มีในรพ.) 1.ใช้รักษาโรคกระดูกพรุนในสตรีวัยหมด ประจำเดือน 2.รักษาโรคกระดูก Paget’s disease 4",
+    "diluents": [
+      "D5W1",
+      "NSS"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "SERUI7",
+    "name": "เซรุ่มแก้พิษงูรวมระบบประสาท",
+    "indications": "ทำลายพิษงูในกลุ่มระบบประสาท ได้แก่  งูทับสมิงคลา งูเห่า งูสามเหลี่ยม งูจงอาง",
+    "diluents": [
+      "SWFI 118"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 118\nrecon: 1 vial: 10 ml\nใช้เซรุ่ม 10 vial ในการรักษา 101\nจำกัดน้ำ :ไม่มีข้อมูล\ndrip: 30-60 min\nไม่เกิน 1ml/min\nหมายเหตุ การรักษา\nอาการช๊อคขึ้นกับอาการและความรุนแรงอาจให้ยาฮิสตามีนหรืออะดรีนาลีน, สเตียรอยด์ขนาดสูง,     สารน้ำทดแทนปริมาณเลือดและ O2ซึ่งควรเตรียมให้พร้อมเสมอ118\n157",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PJSERUI3",
+    "name": "เซรุ่มแก้พิษงูเขียวหางไหม้",
+    "indications": "ทำลายพิษงูเขียวหางไหม้",
+    "diluents": [
+      "SWFI 119"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 119\nrecon: 1 vial: 10 ml\nใช้เซรุ่ม 3 vial ในการรักษา 101\nจำกัดน้ำ: ไม่มีข้อมูล\ndrip: 30-60 min\nไม่เกิน 2ml/min\nหมายเหตุ การรักษา\nอาการช๊อคขึ้นกับอาการและความรุนแรงอาจให้ยาฮิสตามีนหรืออะดรีนาลีน, สเตียรอยด์ขนาดสูง,     สารน้ำทดแทนปริมาณเลือดและ O2ซึ่งควรเตรียมให้พร้อมเสมอ119\n158",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  },
+  {
+    "code": "PJSERUI5",
+    "name": "เซรุ่มแก้พิษงูเห่า",
+    "indications": "ทำลายพิษงูเห่า",
+    "diluents": [
+      "SWFI 120"
+    ],
+    "routes": {
+      "IM": "✕",
+      "IV_direct": "✕",
+      "IV_infusion": "✓",
+      "Other": "✕"
+    },
+    "instructions": {
+      "IM": "",
+      "IV_direct": "",
+      "IV_infusion": "IV infusion 120\nrecon: 1 vial: 10 ml\nใช้เซรุ่ม 10 vial ในการรักษา 101\nจำกัดน้ำ :ไม่มีข้อมูล\ndrip: 30-60 min\nไม่เกิน 2ml/min 120\nหมายเหตุ การรักษา\nอาการช๊อคขึ้นกับอาการและความรุนแรงอาจให้ยาฮิสตามีนหรืออะดรีนาลีน, สเตียรอยด์ขนาดสูง,     สารน้ำทดแทนปริมาณเลือดและ O2ซึ่งควรเตรียมให้พร้อมเสมอ120\nReferences\n1.IBM Micromedex [internet]. 2020 [cited 2020 Nov 17] Available from: https://www.micromedexsolutions.com/home/dispatch/ssl/true\n2.American Society of Health-System Pharmacists. Handbook on Injectable Drugs.18th edition.bethesda: American Hospital Formulary Service; 2015.\n3.UpToDate [internet]. 2020 [cited 2020 Nov 17]. Available from: https://www.uptodate.com/\n4. Electronic Medicines Compendium [Internet]. 2020. [cited 2020 Nov 17] Available from: https://www.medicines.org.uk/emc.\n5.Gahart BL and Nazareno AR. Intravenous medications a handbook for nurses and health professionals. 35st edition. USA: Elsevier; 2019.\n6.สมาคมพิษวิทยาคลินิก. ยาต้านพิษ ๓ [Internet]. [cited 2020 Nov 6] Available from: https://med.mahidol.ac.th/poisoncenter/sites/default/files/public/pdf/books/Antidote_book3.pdf\n7.Trovir [package insert]. Gujarat: Troikaa pharmaceuticals ltd.\n8.Adenocor [package insert]. Bangkok: Sanofi-aventis (Thailand) ltd; 2014.\n9.Adrenaline GPO Injection [package insert]. Bangkok: Government Pharmaceutical Organization (GPO); 2018.\n10.Aethoxysklerol [package insert]. Wiesbaden: Chemische Fabrik Kreussler & Co.; 2017\n11.Albutein 20% [package insert]. Los Angeles: Grifols Biological LLC; 2017.\n12.Prostin VR [package insert]. Puurs: Pfizer Manufacturing Belgium NV; 2016\n13.Cordarone [package insert]. Paris: Sanofi; 2018.\n14.Amphotericin-B [package insert]. Samutprakarn: Biolab co., ltd; 2010.\n15.Unasyn [package insert]. Bangkok: Pfizer (Thailand); 2017.\n16.AMK injection 1.2 G [package insert]. Bangkok: North china pharmaceutical co.,ltd.\n17.Notrixum injection [package insert]. Bogor: PT. Novell Pharmaceutical Laboratories.\n18.Myochrysine [Internet]. 2019 http://products.sanofi.ca/en/myochrysine.pdf\n19.Zithromax [package insert]. Bangkok: Pfizer (Thailand); 2019.\n20.NEW ZEALAND DATA SHEET. MIACALCIC AMPOULES [PDF] 2018. [cited 2020 Nov 11] Available from: https://www.medsafe.govt.nz/profs/Datasheet/m/miacalcicinj.pdf\n21.Calcium gluconate injection [package insert]. Bangkok: Government Pharmaceutical Organization (GPO).\n22.Calcium gluconate injection [Internet]. 2017. [cited 2020 Nov 11] Available from: https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/208418s000lbl.pdf\n23.สมาคมพิษวิทยาคลินิก.ยาต้านพิษ ๒ [Internet]. [cited 2020 Nov 11] Available from: https://med.mahidol.ac.th/poisoncenter/sites/default/files/public/pdf/books/Antidote_book2.pdf\n24.ZEDIM [package insert]. Shandong: Reyoung Pharmaceutical Co., Ltd; 2018.\n25.Bacticep [package insert]. Samutprakarn: M&H Manufacturing co.,ltd.\n26.Chlorpheniramine injection [package insert]. Bangkok: Government Pharmaceutical Organization (GPO).\n27.Nimbex injection [package insert]. Aspen; 2013.\n28.Clindamycin [package insert]. Gujarat: U Square Lifescience PVT.LTD.\n29.Cloxacillin [Internet]. [cited 2020 Nov 14] Available from: https://mri.cts-mrp.eu/human/downloads/NO_H_0308_001_FinalPL.pdf\n30.Colistate150 [package insert]. Samutprakarn: Atlantic Pharmaceutical Co.,Ltd.\n31.Dantrium Intravenous [Internet]. [cited 2020 Nov 14] Available from: https://www.accessdata.fda.gov/drugsatfda_docs/label/2008/018264s025lbl.pdf\n32.Desferal [package insert]. Basel: Novatis Pharma AG; 2018.\n33.Dexasone [package insert]. Samutprakarn: Atlantic Pharmaceutical Co.,Ltd.\n34.Diazepam [package insert]. Bangkok: Government Pharmaceutical Organization (GPO); 2016.\n35.Digoxin [package insert]. Himachal Pradesh: Samarth life sciences.\n36.Dibasic potassium phosphate [package insert]. Naruto (Tokushima): Otsuka Pharmaceutical Factory\n37. Dipotassium Phosphate Solution [package insert].  Naruto (Tokushima): Otsuka Pharmaceutical Factory\n38.Dobutamine Injection [package insert]. Gujarat: U Square Lifescience PVT. ltd.\n39.Inopin [package insert]. Bangkok: Siam Pharmaceutical.\n40.Clexane (Enoxaparin sodium) [package insert]. Bangkok: Sanofi aventis Ltd; 2018.\n41.Binocritl [package insert]. Basel: Novatis Pharma AG; 2018.\n42.สถานเสาวภา สภากาชาดไทย. แนวทางการให้การดูแลรักษาผู้ป่วยสัมผัสโรคพิษสุนัขบ้า (พ.ศ. 2559)  [Internet]. [cited 2020 Nov 14] Available from: https://saovabha.redcross.or.th/download/2559/thailand%20Rabies-Free/QsmiGuidline2016.pdf\n43. Invanz(Ertapenem for injection) [package insert]. Bangkok: MSD Ltd.\n44.Femorum [package insert]. Korea: Myungmoon Pharmaceutical Co. Ltd; 2015.\n45.Fosmicin [package insert]. Tokyo: Meji Seika Pharma Co., Ltd.\n46.Cymevene(Ganciclovir) [package insert]. Latina LT: Bsp Pharmaceuticals S.p.A.; 2018.\n47.Grammicin(Gentamicin sulfate) [package insert]. Bangkok: Siam Pharmaceutical; 2014.\n48.Mid Essex Hospital Services, NHS[Internet]. 2014 [cited 2020 Sep 29]. Available form: https://www.meht.nhs.uk/EasysiteWeb/getresource.axd?AssetID=8857&type=full&servicetype=Attachment.\n49.Glycophos inj [Internet]. [cited 2020 Nov 17] Available from:  https://www.cas.mhra.gov.uk/ViewandAcknowledgment/ViewAttachment.aspx?Attachment_id=103553\n50.Terlipressin [Internet]. 2020. [cited 2020 Oct 21] Available from: http://www.just.edu.jo/DIC/DrugsLibrary/Terlipressin.pdf\n51.Hemax [package insert]. S.A.: BIO SIDUS; 2019.\n52.Hepa-Merz [package insert]. Frankfurt: Merz Pharma GmbH & Co.\n53.American Society of Health-System Pharmacists. Handbook on Injectable Drugs.18th edition.bethesda: American Hospital Formulary Service; 2015.\n54.Hydrocortisone [package insert]. Gujarat: Troikaa Pharmaceuticals ltd.\n55.Buscopan® [package insert]. Laval: sanofi-aventis Canada Inc.\n56.Iloprost Solufarma 20 microgram/ml, concentrate for solution for infusion [Package insert]. Estoril; Solufarma – Produtos Farmacêuticos, Lda\n57.Ilomedin [package insert]. Bangkok: Bayer thai co. ltd; 2011.\n58.MIPENEM/CILASTATIN (PRIMAXIN ®) [Package insert]. Whitehouse Station; MERCK & CO., INC.\n59.Kantrex [Package insert]. NJ; Geneva Pharmaceuticals, Inc.\n60.KEPPRA(R) intravenous injection, levetiracetam intravenous injection [Package insert].  Smyrna; UCB, Inc.\n61.LABETALOL [Package insert]. LAKE FOREST; HOSPIRA, INC.\n62.LEVAQUIN® [Package insert]. Raritan; Ortho-McNeil-Janssen Pharmaceuticals, Inc.\n63.LINCOCIN lincomycin 600mg/2mL (as hydrochloride monohydrate) injection vial [Package insert]. Sydney; Pfizer Australia Pty Ltd.\n64.MAGNESIUM SULFATE [Package insert]. USA; Fresenius Kabi.\n65.MEROPENEM (MERREM ®) [Package insert]. Italy; B. Braun Medical Inc.\n66.Gahart BL and Nazareno AR. Intravenous medications a handbook for nurses and health professionals. 31st edition. USA: Elsevier; 2015.\n67.Methylene blue 1% w/v solution for injection [package insert]. Thailand: Queen Saovabha Memorial Institute: The Thai Red Cross Society.\n68.สมาคมพิษวิทยาคลินิก. คู่มือยาต้านพิษ 2555 [Internet]. [cited 2020 Nov 10] Available from: https://med.mahidol.ac.th/poisoncenter/sites/default/files/public/pdf/books/Antidote_Pocket_2555.pdf\n69.Methergine® [Package insert]. New Jersey; Novartis Pharmaceuticals Corporation\n70.SOLU MEDROL ® – METHYLPREDNISOLON [Package insert]. NY; Pharmacy & Upjohn, Co.\n71.REGLAN ® – METOCLOPRAMIDE [Package insert]. MN; ANI Pharmaceuticals, Inc.\n72.FLAGYL ® – METRONIDAZOLE [Package insert].IL; Baxter Healthcare Corporation.\n73.VERSED ® – MIDAZOLAM [Package insert]. IL; HOSPIRA, INC.\n74.MIRCERA [Package insert]. Grenzach-Wyhlen; Roche Pharma AG.\n75.Morphine 10mg/mL injection, 1mg/mL oral solution [Internet]. [cited 2020 Nov 15] Available from: https://www.sahealth.sa.gov.au/wps/wcm/connect/4f1073004cd7e4b4ba11baa496684d9f/Morphine_Neo_v3_2.pdf?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-4f1073004cd7e4b4ba11baa496684d9f-niQTGW3\n76.MYCAMINE® 50 mg and 100 mg POWDER FOR INJECTION [Package insert]. Auckland; Seqirus (NZ) Ltd.\n77.สมาคมพิษวิทยาคลินิก. ยาต้านพิษ ๕  [Internet]. [cited 2020 Nov 10] Available from: https://med.mahidol.ac.th/poisoncenter/sites/default/files/public/pdf/books/antidote_book5.pdf\n78.NEOSTIGMINE [Internet]. [cited 2020 Nov 15] Available from: https://wnhs.health.wa.gov.au/~/media/Files/Hospitals/WNHS/For%20health%20professionals/Clinical%20guidelines/NCCU/Drug%20Protocols/Neostigmine.pdf\n79.NICARDIPINE HYDROCHLORIDE [Package insert]. CA; Teva Parenteral Medicines, Inc.\n80.NOREPINEPHRINE – LEVOPHED ® [Package insert]. CIBA Pharmaceuticals Company\n81.OCTREOTIDE -SANDOSTATIN ® [Package insert]. New Jersey; Novartis Pharma Stein AG\n82.Losec 40 mg [Package insert]. Södertälje; AstraZeneca\n83.ZOFRAN ® – ONDANSETRON [Package insert]. NJ; WEST-WARD PHARMACEUTICAL Corp.\n84.OXYTETRACYCLINE INJECTION 200 [Package insert]. Northern Ireland; Norbrook Laboratories Limited\n85.OXYTOCIN – PITOCIN ® [Package insert].  Bristo; King Pharmaceuticals, Inc\n86.PAMIDRONATE -AREDIA ® [Package insert]. New Jersey; Novartis Pharmaceuticals Corporation\n87.PANTOPRAZOLE – PROTONIX ® [Package insert]. Philadelphia; Wyeth Pharmaceuticals Inc.\n88.Acetaminophen Injection [Package insert].IL; Fresenius Kabi USA, LLC.\n89.DYNASTAT® (40 mg Powder for Injection). [Package insert]. Auckland; Pfizer New Zealand Limited.\n90.Penicillin G [Package insert]. Razgrad.Balkanpharm\n91.Phenobarbitone Injection. [Package insert]. กรุงเทพฯ. องค์การเภสัชกรรม;2012\n92.NHS Tayside. Phenytoin Prescribing and Monitoring Guideline [internet]. [cited 2020 Nov 5]. Available from: https://www.nhstaysideadtc.scot.nhs.uk/approved/guidance/Phenytoin%20Prescribing%20and%20Monitoring%20Guidline.pdf\n93.Potassium Chloride Injection [Internet]. 2019. [cited 2020 Nov 5] Available from: https://www.pfizer.ca/sites/default/files/201905/Potassium_Chloride_Package_Insert_E_208743_14Sep2017.pdf\n94.Pralidoxime Injection [Internet]. 2010. [cited 2020 Nov 5] Available from: https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/014134s022lbl.pdf\n95.Prevacid [package insert]. Bangkok: Takeda (Thailand) Ltd.\n96.Overgaard CB, Džavík V. Inotropes and Vasopressors. Circulation. 2008;118(10):1047-56.\n97.Protamine sulfate injection [package insert].UK:Wockhardt UK Ltd;2018\n98.Ranitidine injection [Internet]. 2009. [cited 2020 Nov 5] Available from: https://www.accessdata.fda.gov/drugsatfda_docs/label/2009/019090s051,019593s039lbl.pdf\n99.Mrinal K, Dilip K, Sulakshana K, Panchami B. Rocuronium continuous infusion versus intermittent bolus for maintaining suitable muscle relaxation and recovery status without using a peripheral nerve stimulator during anesthesia. Ain-Shams Journal of Anaesthesiology. 2015;8(4):567-72.\n100.Recormon® pre-filled syringes [Internet]. 2019. [cited 2020 Nov 5] Available from: https://www.roche.com.sg/content/dam/rochexx/roche-com-sg/documents/product-page/Recormon%20PI%20Feb%202019.pdf\n101.สมาคมพิษวิทยาคลินิก. ยาต้านพิษ ๑  [Internet]. [cited 2020 Nov 6] Available from: https://med.mahidol.ac.th/poisoncenter/sites/default/files/public/pdf/books/Antidote_book1.pdf\n102.Sodium Nitroprusside Injection [Internet]. 2009. [cited 2020 Nov 5] Available from: https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/209387s000lbl.pdf\n103. Sodium thiosulfate 25% solution for injection [package insert]. Thailand: Queen Saovabha Memorial Institute: The Thai Red Cross Society.\n104.Generali JA, Cada DJ. Sodium Thiosulfate: Calciphylaxis. Hospital Pharmacy. 2015;50(11):975-7.\n105.แนวทางเวชปฏิบัติในการดูแลผู้ป่วย โรคหัวใจขาดเลือดในประเทศไทย [Internet]. สมาคมแพทย์โรคหัวใจแห่ง ประเทศไทยในพระบรมราชูปถัมภ์. 2557 [cited 17 พฤศจิกายน 2563]. Available from: http://www.thaiheart.org/images/column_1291454908/Guideline%20for%20Ischemic%20Heart%20Disease%202104.pdf.\n106.แนวทางการรักษาผู้ป่วยตกเลือดหลังคลอดทันที [Internet].คณะกรรมการพัฒนาระบบบริการสุขภาพ สาขาสูติกรรม.2560 [cited 11 พฤศจิกายน 2563]. Available from: http://www.rbpho.moph.go.th/upload-file/doc/files/010518-935-5156.pdf\n107.TEICOPLANIN [Internet]. Department of Health Western Australia 2017 [cited 16 Nov 20]. Available from: https://www.kemh.health.wa.gov.au/~/media/Files/Hospitals/WNHS/For%20health%20professionals/Clinical%20guidelines/Pharmacy/medications/teicoplanin.pdf.\n108.THYMOGLOBULIN [Internet]. 2017. [cited 2020 Nov 5] Available from: https://www.fda.gov/media/74641/download\n109.Tigecycline for injection [Internet]. 2013. [cited 2020 Nov 5] Available from: https://www.accessdata.fda.gov/drugsatfda_docs/label/2013/021821s026s031lbl.pdf\n110. Tradol 50mg/ml Solution for Injection or Infusion [Internet]. 2013. [cited 2020 Nov 5] Available from:  https://www.hpra.ie/img/uploaded/swedocuments/126bed13-e1d4-4fc2-860a-a8fb66ef16b6.pdf\n111.BACTRIM injection [Internet].2017. [cited 2020 Nov 6] Available from: https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/018374s025lbl.pdf\n112.Vancomycin Hydrochloride for Injection [Internet]. 2007. [cited 2020 Nov 5] Available from: https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/060180s047lbl.pdf\n113.Neurobion® solution for injection [Internet]. 2012. [cited 2020 Nov 5] Available from: https://old.sfda.gov.sa/ar/SURE_DrugList_Attachments/3911-human-EnUserGuide-Neurobion%201.3.3.2%20English%20Leaflet.pdf\n114.Lacy CF, Armstrong LL, Goldman MP, Lance LL. Drug Information Handbook.15th ed. Hudson (OH): Lexi Comp; 2007\n115.Becolim [package insert]. Bangkok: Atlantic Pharmaceutical Co.,Ltd; 2551\n116. สมาคมพิษวิทยาคลินิก. ยาต้านพิษ ๔  [Internet]. [cited 2020 Nov 6] Available from: http://www.lpnh.go.th/newlp/wp-content/uploads/2013/10/Antidote-book4.pdf\n117.Voriconazole for Injection [Internet]. 2019. [cited 2020 Nov 5] Available from: https://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021266s032lbl.pdf\n118.Polyvalent snake antivenin [package insert]. Thailand: Queen Saovabha Memorial Institute: The Thai Red Cross Society.\n119.Green Pit Viper antivenin [package insert]. Thailand: Queen Saovabha Memorial Institute: The Thai Red Cross Society.\n120.Cobra antivenin [package insert]. Thailand: Queen Saovabha Memorial Institute: The Thai Red Cross Society.",
+      "Other": ""
+    },
+    "concentration_mg_per_ml": {
+      "min": null,
+      "max": null
+    }
+  }
+]

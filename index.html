@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html lang="th">
+<head>
+<meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/>
+<title>IV Drug Reference</title>
+<link href="styles.css" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Prompt:wght@300;400;500;600&amp;display=swap" rel="stylesheet"/>
+</head>
+<body>
+<header>
+<h1>IV Drug Reference</h1>
+<div class="search-box">
+<input id="search" placeholder="พิมพ์ชื่อยาเพื่อค้นหา…" type="search"/>
+<ul class="suggestions" id="suggestions"></ul>
+</div>
+</header>
+<main>
+<section class="card hidden" id="drug-card">
+<h2 id="drug-name"></h2><div class="drug-code muted" id="drug-code"></div>
+<p class="muted" id="drug-indications"></p>
+<div class="grid">
+<div>
+<h3>สารน้ำที่ใช้ได้</h3>
+<div class="chips" id="drug-diluents"></div>
+</div>
+<div>
+<h3>วิธีใช้</h3>
+<div class="badges">
+<span class="badge" id="badge-im">IM: —</span>
+<span class="badge" id="badge-ivd">IV direct: —</span>
+<span class="badge" id="badge-ivi">IV infusion: —</span>
+</div>
+<div class="badge outline" id="badge-other"></div>
+</div>
+</div>
+<details class="details">
+<summary>คำแนะนำในการเตรียม/ให้ยา</summary>
+<div class="instructions">
+<div><strong>IM</strong><pre id="inst-im"></pre></div>
+<div><strong>IV direct</strong><pre id="inst-ivd"></pre></div>
+<div><strong>IV infusion</strong><pre id="inst-ivi"></pre></div>
+<div><strong>อื่นๆ</strong><pre id="inst-other"></pre></div>
+</div>
+</details>
+<div class="widget" id="conc-widget">
+<h3>ตรวจความเข้มข้น (mg/mL)</h3>
+<form id="conc-form">
+<div class="row"><label>มิลลิกรัมยา</label><input id="dose-mg" min="0" required="" step="0.01" type="number"/></div>
+<div class="row"><label>ชนิดสารน้ำ</label><select id="diluent-select"></select></div>
+<div class="row"><label>ปริมาตรสารน้ำ (mL)</label><input id="volume-ml" min="0" required="" step="0.1" type="number"/></div>
+<button type="submit">คำนวณ</button>
+</form>
+<div class="result muted" id="conc-result"></div>
+</div>
+</section>
+</main>
+<footer>
+<small>ข้อมูลอ้างอิงจาก IV drug reference โรงพยาบาล • ใช้เพื่อช่วยตัดสินใจ ไม่แทนคำแนะนำแพทย์/เภสัชกร</small>
+</footer>
+<script src="app.js"></script>
+</body></html>
