@@ -2,13 +2,11 @@
   {
     "code": "FLUII1",
     "name": "Acetylcysteine (300 mg/3 ml)",
-    "indications": "Acetaminophen overdose3,6",
+    "indications": "Acetaminophen overdose",
     "diluents": [
-      "2",
-      "4",
       "D5W",
       "NSS",
-      "NSS/21"
+      "NSS/2"
     ],
     "routes": {
       "IM": "✕",
@@ -19,7 +17,7 @@
     "instructions": {
       "IM": "",
       "IV_direct": "",
-      "IV_infusion": "IV infusion6\n- 150 mg/kg : 200 ml drip: 1 hr ตามด้วย\n- 50 mg/kg : 500 ml drip: 4 hr ตามด้วย\n- 100 mg/kg : 1000 ml drip: 16 hr\nน้ำหนัก 20-40 kg/จำกัดน้ำ:\n- 150 mg/kg : 100 ml drip: 1 hr ตามด้วย\n-50 mg/kg : 250 ml drip: 4 hr ตามด้วย\n- 100 mg/kg : 500 ml drip: 16 hr\n1. หลัง dilute ยามีความคงตัว 24 hr ที่อุณหภูมิห้อง1\n2. อาจพบผื่นแดงและอาการหน้าแดง (flushing) หลังฉีดยาทางหลอดเลือดดำ 30-60 min1\n3. การ drip เร็วกว่า 1 hr ทำให้เกิด anaphylactoid reaction\n2",
+      "IV_infusion": "IV infusion6\n- 150 mg/kg : 200 ml drip: 1 hr ตามด้วย\n- 50 mg/kg : 500 ml drip: 4 hr ตามด้วย\n- 100 mg/kg : 1000 ml drip: 16 hr\nน้ำหนัก 20-40 kg/จำกัดน้ำ:\n- 150 mg/kg : 100 ml drip: 1 hr ตามด้วย\n-50 mg/kg : 250 ml drip: 4 hr ตามด้วย\n- 100 mg/kg : 500 ml drip: 16 hr\n1. หลัง dilute ยามีความคงตัว 24 hr ที่อุณหภูมิห้อง1\n2. อาจพบผื่นแดงและอาการหน้าแดง (flushing) หลังฉีดยาทางหลอดเลือดดำ 30-60 min1\n3. การ drip เร็วกว่า 1 hr ทำให้เกิด anaphylactoid reaction",
       "Other": ""
     },
     "concentration_mg_per_ml": {
@@ -29,13 +27,13 @@
   },
   {
     "code": "ACYCI1",
-    "name": "Acyclovir",
-    "indications": "250 mg - Herpes simplex virus - Herpes zoster3,7",
+    "name": "Acyclovir 250 mg",
+    "indications": "- Herpes simplex virus - Herpes zoster",
     "diluents": [
       "D5N/2",
       "D5S",
       "D5W",
-      "LRS1",
+      "LRS",
       "NSS"
     ],
     "routes": {
@@ -47,7 +45,7 @@
     "instructions": {
       "IM": "",
       "IV_direct": "",
-      "IV_infusion": "IV infusion7\nrecon: 1 vial : SWFI 5 ml\ndilute: 1-2 vial : 100 ml\nจำกัดน้ำ: 1 vial : 50 ml\ndrip: ≥ 1 hr\n1. ห้าม rapid infusion3\n2. ยาที่ recon ด้วย SWFI จะคงตัวที่ 12 hr7\n3",
+      "IV_infusion": "IV infusion7\nrecon: 1 vial : SWFI 5 ml\ndilute: 1-2 vial : 100 ml\nจำกัดน้ำ: 1 vial : 50 ml\ndrip: ≥ 1 hr\n1. ห้าม rapid infusion3\n2. ยาที่ recon ด้วย SWFI จะคงตัวที่ 12 hr",
       "Other": ""
     },
     "concentration_mg_per_ml": {
@@ -57,11 +55,11 @@
   },
   {
     "code": "ADENI1",
-    "name": "Adenosine (Adenocor®)",
-    "indications": "(6 mg/2 ml) รักษา paroxysmal supra-ventricular tachycardia (PSVT)3 หมายเหตุ ไม่ได้ผลใน atrial flutter , atrial fibrillation หรือ Ventricular tachycardia3",
+    "name": "Adenosine (Adenocor®) (6 mg/2 ml)",
+    "indications": "รักษา paroxysmal supra-ventricular tachycardia (PSVT)3 หมายเหตุ ไม่ได้ผลใน atrial flutter , atrial fibrillation หรือ Ventricular tachycardia",
     "diluents": [
       "D5W",
-      "LRS1",
+      "LRS",
       "NSS"
     ],
     "routes": {
@@ -72,7 +70,7 @@
     },
     "instructions": {
       "IM": "",
-      "IV_direct": "Direct IV3\npush: 1-2 sec ทาง peripheral IV site flush: NSS 20 ml หลังให้ยาทันที เพื่อป้องกันการเกิด local vein irritation\nmax dose: ไม่เกิน 12 mg\n1. ห้ามเก็บยาในตู้เย็น8\n4",
+      "IV_direct": "Direct IV3\npush: 1-2 sec ทาง peripheral IV site flush: NSS 20 ml หลังให้ยาทันที เพื่อป้องกันการเกิด local vein irritation\nmax dose: ไม่เกิน 12 mg\n1. ห้ามเก็บยาในตู้เย็น",
       "IV_infusion": "",
       "Other": ""
     },
@@ -84,7 +82,7 @@
   {
     "code": "ADREI1",
     "name": "Adrenaline 1 mg/ml (Epinephrine)",
-    "indications": "1:1,000 = 1 mg/ 1 ml 1:10,000 = 0.1 mg/ 1 ml Solution for injection 1. Cardiac arrest3 2. Hypersensitivity reaction (Anaphylactic shock)3",
+    "indications": "1:1,000 = 1 mg/ 1 ml 1:10,000 = 0.1 mg/ 1 ml Solution for injection 1. Cardiac arrest3 2. Hypersensitivity reaction (Anaphylactic shock)",
     "diluents": [
       "D5N/2",
       "D5S",
@@ -130,7 +128,7 @@
     "instructions": {
       "IM": "",
       "IV_direct": "",
-      "IV_infusion": "IV infusion1,3\nผู้ป่วยปกติและจำกัดน้ำ:\nยา 2 vial (100 ml) ไม่ต้องเจือจาง\ndrip: ผ่าน set drip ที่มีตัวกรอง (filter) เท่านั้น\nrate: ไม่เกิน 1 ml/min ให้ซ้ำได้อีกใน 15-30 min\n1. ห้ามฉีดเข้าเส้นเลือดดำอย่างเร็วๆเพราะทำให้เกิดน้ำท่วมปอดได้11\n2. ห้ามใช้ยาที่เปิดนานกว่า 4 hr.1\n3. ห้ามฉีดในคนที่มีภาวะโลหิตจางอย่างรุนแรงหรือหัวใจล้มเหลวโดยที่ปริมาณของๆของเหลวในระบบไหลเวียนปกติหรือเพิ่มขึ้น11\n7",
+      "IV_infusion": "IV infusion\nผู้ป่วยปกติและจำกัดน้ำ:\nยา 2 vial (100 ml) ไม่ต้องเจือจาง\ndrip: ผ่าน set drip ที่มีตัวกรอง (filter) เท่านั้น\nrate: ไม่เกิน 1 ml/min ให้ซ้ำได้อีกใน 15-30 min\n1. ห้ามฉีดเข้าเส้นเลือดดำอย่างเร็วๆเพราะทำให้เกิดน้ำท่วมปอดได้\n2. ห้ามใช้ยาที่เปิดนานกว่า 4 hr.1\n3. ห้ามฉีดในคนที่มีภาวะโลหิตจางอย่างรุนแรงหรือหัวใจล้มเหลวโดยที่ปริมาณของๆของเหลวในระบบไหลเวียนปกติหรือเพิ่มขึ้น11\n7",
       "Other": ""
     },
     "concentration_mg_per_ml": {
